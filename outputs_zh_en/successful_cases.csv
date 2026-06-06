@@ -1,0 +1,11 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+谁？,Who?,who ?,2,2,1.0,0
+是的。 Yes.,Yes.,yes .,2,2,1.0,0
+- 是的 冯·伯恩伯格夫人,"-Yes, Miss von Bernburg.","- yes , von bernburg .",7,6,0.9231,1
+我没哭,I'm not crying.,i ' m not .,6,5,0.9091,1
+- 你被解雇了!,- You're discharged!,- you ' re !,6,5,0.9091,1
+我...,I...,i ' . . .,4,5,0.8889,1
+"不,我不能。 No, I can't.","No, I can't.","no , i ' t t .",7,7,0.8571,0
+我知道。,I know.,i know know .,3,4,0.8571,1
+- 男爵.,- A Baron.,- baron .,4,3,0.8571,1
+等一會兒.,Wait a minute.,a minute .,4,3,0.8571,1

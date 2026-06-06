@@ -1,0 +1,1001 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+谁？,Who?,who ?,2,2,1.0,0
+是的。 Yes.,Yes.,yes .,2,2,1.0,0
+- 是的 冯·伯恩伯格夫人,"-Yes, Miss von Bernburg.","- yes , von bernburg .",7,6,0.9231,1
+我没哭,I'm not crying.,i ' m not .,6,5,0.9091,1
+- 你被解雇了!,- You're discharged!,- you ' re !,6,5,0.9091,1
+我...,I...,i ' . . .,4,5,0.8889,1
+"不,我不能。 No, I can't.","No, I can't.","no , i ' t t .",7,7,0.8571,0
+我知道。,I know.,i know know .,3,4,0.8571,1
+- 男爵.,- A Baron.,- baron .,4,3,0.8571,1
+等一會兒.,Wait a minute.,a minute .,4,3,0.8571,1
+你知道的。,You know.,you know know .,3,4,0.8571,1
+-我马上回来。 ——确定。 - I'll be right back.,- I'll be right back.,- i ' ll be .,8,6,0.8571,2
+"- 4,000馬克.","- 4,000 marks.","- oh , 000 marks .",6,6,0.8333,0
+-是的，我是。 -我就知道。,"- Yes, I am.","- yes , i know .",6,6,0.8333,0
+Excuse me. I'll be right back.,I'll be right back.,i ' ll be .,7,5,0.8333,2
+是這樣.,That's it.,that ' s . .,5,5,0.8,0
+- 怎么回事?,- What's going on?,- what ' s ? ?,7,6,0.7692,1
+你是个好人。 但是很抱歉，我今天不需要男仆。,You're a nice fellow.,you ' re a good .,7,6,0.7692,1
+- 你真美.,- You're very sweet.,- you ' re you .,7,6,0.7692,1
+- 我非常感谢,- I'm so grateful.,- i ' m going .,7,6,0.7692,1
+"當然, 夫人.","Certainly, Madame.","but , madame .",4,4,0.75,0
+哦，不! 我是小红帽!,"Oh, no!","oh , , !",4,4,0.75,0
+格雷森先生。 Mr. Grayson.,Mr. Grayson.,mr . smith .,4,4,0.75,0
+"""我已经警告你们了""","""I'm warning you.""",""" i ' m you to you .",8,8,0.75,0
+但是．小姐,"But, madame -","but , madame .",4,4,0.75,0
+- 来看,- Take a look.,- look .,5,3,0.75,2
+我的妻子,My wife.,my wife my wife .,3,5,0.75,2
+你要被關起來了.,You're going to be locked up.,you ' re going to . .,9,7,0.75,2
+"不, 該死, 我沒空兒.","No, darn it, I'm not.","no , , , i ' m sorry .",10,9,0.7368,1
+我不能.,I couldn't.,i ' ' t t .,5,6,0.7273,1
+"- 是的, 謝謝.","- Yes, thank you.","- yes , yes .",6,5,0.7273,1
+你在哭什么？ What are you crying about?,What are you crying about?,what are you you ?,6,5,0.7273,1
+我是汗莫卡,I'm Hamacher.,i ' m my <unk> .,5,6,0.7273,1
+这是这个想法。 That's the idea.,That's the idea.,that ' s that .,6,5,0.7273,1
+他是個賊.,He's a thief.,he ' s . .,6,5,0.7273,1
+你知道吗...,You know...,you know you know . .,5,6,0.7273,1
+抱歉 教授,"- Sorry, Herr Professor.","- professor , professor .",6,5,0.7273,1
+- 我在等...,- I was waiting...,- i ' m . . .,7,7,0.7143,0
+玛努薇拉 我想告诉你,"Manuela, I want to tell you something.","manuela , i ' ll tell you to tell you .",9,11,0.7,2
+我们不希望你为此麻烦。 We don't want you to go to any trouble about that.,We don't want you to go to any trouble about that.,we ' t want to you to you .,14,9,0.6957,5
+这就是为什么我带你来这。,That's why I brought you here.,that ' s what i ' m you .,9,9,0.6667,0
+- 沒必要.,- Don't be.,- i ' ll be .,6,6,0.6667,0
+进来,Come in.,come on .,3,3,0.6667,0
+但我不用.,But I don't.,i ' ' t t .,6,6,0.6667,0
+是吗？,- Mad?,- is ?,3,3,0.6667,0
+What's the difference?,What's the difference?,how ' s the matter ?,6,6,0.6667,0
+"你明白了，不是吗？ 你又好又聪明。 You caught on, didn't you?","You caught on, didn't you?","you ' t you , you , you ?",9,9,0.6667,0
+- Dawson.,- Dawson.,- no .,3,3,0.6667,0
+到这儿来,Come here.,here here .,3,3,0.6667,0
+我明年还会再来的,I'll be back next year.,i ' ll be to be .,8,7,0.6667,1
+看来我得重头教育你们,"Well, I'll have to teach you.","let me , i ' ll be you to you .",10,11,0.6667,1
+- 難道你不是在彈什麼嗎?,- Weren't you playing something?,- you ' t you you ?,8,7,0.6667,1
+他吻了我．,He kissed me.,he ' s me .,4,5,0.6667,1
+"""嘿, 寶貝兒!","""Hi, baby!",""" , , !",5,4,0.6667,1
+"噢,是吗? Oh, yeah?","Oh, yeah?","oh , , , ?",4,5,0.6667,1
+我走著去.,I'll walk.,i ' ll go to . .,5,7,0.6667,2
+"-不，先生 -是的 - No, sir.","- No, sir.","- no , mr . . .",5,7,0.6667,2
+他睡了,"""He's asleep.""",he ' s he .,7,5,0.6667,2
+这是怎么回事？ 这个女人是谁？ What's going on here?,What's going on here?,what ' s what ?,7,5,0.6667,2
+2..,two...,. .,4,2,0.6667,2
+迈克尔撕报纸干什么？ What's Michael tearing the paper about?,What's Michael tearing the paper about?,what ' s the matter ?,9,6,0.6667,3
+- 你没有母亲了？,-You don't have a mother?,- you ' t you ?,9,6,0.6667,3
+大地... 聖潔的大地... ！,O Earth... sacred Earth...,the <unk> . . . . . . .,10,9,0.6316,1
+"你是個好人, 克林格蘭先生.","You're a good man, Mr. Kringelein.","you , mr , mr . kringelein .",11,8,0.6316,3
+我已經等了很長時間了.,I've been here a very long time.,i ' ve been <unk> .,10,6,0.625,4
+"在她看来，我只是受雇的帮手。 As far as she's concerned, I'm just part of the hired help.","As far as she's concerned, I'm just part of the hired help.","she ' s the <unk> , i ' m <unk> .",18,11,0.6207,7
+"- 再見, 閣下.","- Goodbye, Your Excellency.","- goodbye , , , . .",6,7,0.6154,1
+That's not a nail. That's our own invention.,That's our own invention.,that ' s all right .,7,6,0.6154,1
+- 但是你怎麼知道的?,- But how do you know?,- what is you know ?,7,6,0.6154,1
+I'll tell you something.,I'll tell you something.,i ' ' t you .,7,6,0.6154,1
+一切都会好的。 It'll be all right.,It'll be all right.,- i ' ll be .,7,6,0.6154,1
+是的．他可以．,"- Yes, he can.","yes , he ' s . .",6,7,0.6154,1
+我不在乎.,I don't care.,i ' ' t t . .,6,7,0.6154,1
+- 贝肯多夫...,-Beckendorf...,- i ' . . . . .,5,8,0.6154,3
+出什么事了，老兄？,"What's the matter, man?",what ' s what ?,8,5,0.6154,3
+我很抱歉。 我下去把它们扔出去。,I'm sorry.,i ' m going to go to .,5,8,0.6154,3
+你現在還不走?,Hadn't you better go now?,you ' t you ?,8,5,0.6154,3
+你在唱什么? 去那里。 你在唱什么?,What are you singing?,what do you you ?,5,5,0.6,0
+"哦,米勒先生。 Oh, Mr. Miller.","Oh, Mr. Miller.","mr , mr .",6,4,0.6,2
+"哦,芭芭拉。 Oh, Barbara.","Oh, Barbara.","oh , , , . .",4,6,0.6,2
+"你好,炖肉。 恭喜你!","Hello, Stew.","hello , , , you .",4,6,0.6,2
+不行 玛努薇拉,"No, Manuela.",no ' t t manuela .,4,6,0.6,2
+哦．不,Oh. No.,"oh , no , no .",4,6,0.6,2
+你确定不认识他吗?,You sure you don't know him?,you ' t t t t you ?,9,8,0.5882,1
+我还会再把你扔出去。 And I'll throw you out again.,And I'll throw you cut again.,i ' ll be you to you .,9,8,0.5882,1
+他是那些学生们的教授,He's the schoolboys' Professor.,he ' s the <unk> of the <unk> .,8,9,0.5882,1
+噢 玛努薇拉 你看起来真漂亮！,"-Oh, Manuela, you're beautiful.","manuela manuela , you ' re !",10,7,0.5882,3
+- 现在没事了,"- Oh, it's all right now.",- now ' s the matter .,10,7,0.5882,3
+"- I didn't, huh?","- Didn't, huh?","- i ' m sorry , ?",7,7,0.5714,0
+-太多了。 - $65. - That's too much.,- That's too much.,- i ' s all right .,7,7,0.5714,0
+"- Sure, you ran away.","- Sure, you ran away.","- i , , , you .",7,7,0.5714,0
+- 西部劇院?,- Western Theater?,- where ?,4,3,0.5714,1
+小姐,"Oh, madame.","- , .",4,3,0.5714,1
+一不用客气 我相信你,You're very welcome. I believe you.,"- no , i ' t believe you you you .",10,11,0.5714,1
+是吗？,Is that so?,- is ?,4,3,0.5714,1
+- 晚安.,- Good night.,- . .,4,3,0.5714,1
+现在 你得走了,You have to go now.,now you ' re going to you .,6,8,0.5714,2
+"对不起，米勒先生。 我不是那个意思。 I'm sorry, Mr.","I'm sorry, Mr. Miller.","no , i ' m not , i ' m sorry .",9,12,0.5714,3
+我应该穿着它 然后想到她,I'm supposed to wear it and think of her.,i ' m <unk> to <unk> to her .,12,9,0.5714,3
+好的．,"Yes, Madame Bertier. Yes. Thank you.","yes , . .",10,4,0.5714,6
+"哦，没问题，夏普先生。 Oh, no trouble, Mr. Sharpe.","Oh, no trouble, Mr. Sharpe.","oh , , , , , , . .",9,9,0.5556,0
+"现在，你明白了，康罗伊。 Now, you get this, Conroy.","Now, you get this, Conroy.","now , , , , , , , you .",8,10,0.5556,2
+我有三个小时没见到你了。 你已经忽略我了。 I haven't seen you for three hours.,I haven't seen you for three hours.,i ' ' t you to you .,10,8,0.5556,2
+- 你愿意和我一起去找她吗?,- Will you go with me to her now?,- you you you want to me ?,10,8,0.5556,2
+她打电话找你。 我想你最好马上过去。 And she's calling for you.,And she's calling for you.,"she ' s you , i ' ll you .",8,10,0.5556,2
+Who's gonna stop me? I'd like to see somebody stop me.,I'd like to see somebody stop me.,i ' ' t get to me .,10,8,0.5556,2
+我一会儿给你打回去,I'm gonna have to call you back.,i ' ll be you to you .,10,8,0.5556,2
+"- 謝謝, 夫人.","- Thank you, madam.","- yes , madame .",6,5,0.5455,1
+请坐格罗夫纳小姐,"Sit down, Miss Grosvenor.","- , , miss .",6,5,0.5455,1
+我提醒你.,I told you that.,i ' m you you .,5,6,0.5455,1
+- 你見過夫人嗎?,- Have you seen Madame?,- you are you ?,6,5,0.5455,1
+"你好，好孩子！ Hello, sonny boy!","Hello, sonny boy!","hello , , , , !",5,6,0.5455,1
+注意 教授 注意,"Watch this, Herr Professor.",""" professor , professor .",6,5,0.5455,1
+- 是啊 班恩,"- Come on, Behn.","- yes , sir .",6,5,0.5455,1
+玛努薇拉跟你们在一起吗？,Is Manuela with you?,"manuela , you you you ?",5,6,0.5455,1
+Smith. - How do you do?,- How do you do?,how you want you ?,6,5,0.5455,1
+"是, 行李房領班.","Yes, head porter.","yes , , . . .",5,6,0.5455,1
+I know what's wrong. I'm colorblind.,I'm colorblind.,i ' ' t know .,5,6,0.5455,1
+是的,"Oh, yes, very nice.","yes , yes .",7,4,0.5455,3
+我想祝贺你们,I congratulate you.,i want you want to you .,4,7,0.5455,3
+后来...,And...,come . . . . . .,4,7,0.5455,3
+- 問有什麼用嗎?,- What is the use of asking?,- what ?,8,3,0.5455,5
+"噢, 你不認為我與你是不相關的... 但是如果你買些新衣服, ... 可能你會更開心一些.","You know, I know you won't think I'm impertinent... but perhaps you might have a little better time... if you bought some new clothes.","i ' t you you , i ' t you you , i ' t you you . you . you . you . . . .",36,27,0.5397,9
+我会一直守着你,"I like to hear you say it, though. I'll never stop loving you.",i ' ll be you to you .,18,8,0.5385,10
+"哦，我和安妮的婚姻。 Oh, my marriage to Anne.","Oh, my marriage to Anne.","oh , i ' m my <unk> .",7,8,0.5333,1
+我稍后将在那工作,I'm working here late.,i ' m <unk> <unk> <unk> <unk> .,7,8,0.5333,1
+是的，谢谢，谢谢。 我叫史密斯，斯图尔特·史密斯。,"Yes, thank you, thank you.","yes , , , , . .",8,7,0.5333,1
+我什麼也看不到.,I can't see anything.,i ' ' t t t you .,7,8,0.5333,1
+冯·伯恩伯格夫人怎么说？,What did Miss von Bernburg say?,"- von bernburg , miss von bernburg ?",7,8,0.5333,1
+但是你有我们的血统,But you are of our blood.,but you ' re going to our .,7,8,0.5333,1
+我很喜欢她,I'm crazy about her!,i ' m going her her her .,7,8,0.5333,1
+-你为什么告诉我? -我告诉你是16。 - Why are you telling me?,- Why are you telling me?,- you you you want to me ?,7,8,0.5333,1
+哦，你好。 你是米勒先生，对吗?,"Oh, how do you de?","oh , you , sir , sir ?",7,8,0.5333,1
+- 你知道我是怎么想的吗？,- You know what I think it was?,- you know you know ?,9,6,0.5333,3
+我才不管他呢。 你觉得那家伙能惹我生气吗？ I ain't paying no attention to him.,I ain't paying no attention to him.,i ' ' t t you to me .,10,9,0.5263,1
+别把箱子在这儿乱放,Don't pile the bags in a heap.,don ' t t <unk> to the <unk> .,10,9,0.5263,1
+因为你不需要找人修理它。 一些笑话! Because you don't have to have it fixed.,Because you don't have to have it fixed.,i ' ' t you to you .,11,8,0.5263,3
+我不是告诉过你他会很棒吗？ Didn't I tell you he'd be marvelous?,Didn't I tell you he'd be marvelous?,i ' ' t you ' t you to you ?,12,11,0.5217,1
+"抱歉，妈，但那不是我们表演的一部分。 I'm sorry, ma, but that's not part of our act.","I'm sorry, Ma, but that's not part of our act.","oh , , , ' s not , that ' s all right .",17,14,0.5161,3
+记住，你这个流氓！,"Remember this, you cucumber!",""" , you , you !",6,6,0.5,0
+先生,Monsieur.,mr .,2,2,0.5,0
+第6節,Canto VI,canto .,2,2,0.5,0
+哦! Oh!,Oh!,the !,2,2,0.5,0
+- 借光.,- Excuse me.,- i ' .,4,4,0.5,0
+166號房?,166?,what ?,2,2,0.5,0
+- Go on.,- Go on.,- i ' .,4,4,0.5,0
+- 我不是个孩子,- I'm not a child.,- i ' ' t t you .,8,8,0.5,0
+"喝酒, 先生們.","Drink, gentlemen.","mr , mr .",4,4,0.5,0
+- 我們的火車?,- Our train?,- we ' ?,4,4,0.5,0
+向前走！,Forward!,the !,2,2,0.5,0
+Tom?,Tom?,how ?,2,2,0.5,0
+出去!,Move!,go !,2,2,0.5,0
+"哦，你的牙齿好大啊! Oh, what big teeth you have!","Oh, what big teeth you have!","oh , , , you , you !",8,8,0.5,0
+是那位嗎？,Isn't that right?,that ' s the matter ?,6,6,0.5,0
+啊！,Oh!,""" !",2,2,0.5,0
+耐心?,Patience?,who ?,2,2,0.5,0
+- 你不表白不是会更好吗？,- Hadn't you better not commit yourself?,- no ' t you you ' t you ?,10,10,0.5,0
+"Really, Mr. Morgan.","Really, Mr. Morgan.","oh , , , . .",6,6,0.5,0
+埃德嘉！,Edelgard!,the !,2,2,0.5,0
+-什么意思？ 什么是什么意思？ - What does this mean?,- What does this mean?,- what what what what ?,6,6,0.5,0
+我太伤心了,"Oh, I'm so unappy.",i ' m going to the <unk> .,8,8,0.5,0
+近来怎样？,How are you?,"how , that ?",4,4,0.5,0
+快看！,Look!,""" !",2,2,0.5,0
+那是你嗎?,Is that you?,you are you ?,4,4,0.5,0
+就是他,He's the one!,""" he ' s him .",6,6,0.5,0
+Rumors? Rumors?,Rumors?,how ?,2,2,0.5,0
+"是你嗎, 海因裏希?","Is that you, Heinrich?","you , you , you ?",6,6,0.5,0
+哇! ! Whoopee!,Whoopee!,let !,2,2,0.5,0
+- I know.,I know.,- i ' m .,3,5,0.5,2
+那个人...,"""He... himself...",that ' s . . . .,9,7,0.5,2
+"哦,t 'ain不。 但我有个坏消息要告诉你。","Oh, t'ain't that.","oh , i ' m not .",9,7,0.5,2
+你得支持我们。 You've got to stand behind us.,You've got to stand behind us.,you ' re gonna to get .,9,7,0.5,2
+保佑你。 Bless you.,Bless you.,- you ' re .,3,5,0.5,2
+"- 因為, 你是個賊!","- Why, you're a thief!","- yes , you , you !",9,7,0.5,2
+现在不行,Not now.,now ' t t .,3,5,0.5,2
+"""我会伴你身旁""",I'll be by Your side,""" i ' ll be you you . """,7,9,0.5,2
+我們跳舞?,We'll dance?,we we ?,5,3,0.5,2
+你看著吧.,You'll see. Here.,you ' re you .,7,5,0.5,2
+- 不一樣?,- Different?,"- no , no ?",3,5,0.5,2
+玛努薇拉 我要求绝对服从纪律,"Manuela, I require total discipline.","manuela , i ' ll be to me .",7,9,0.5,2
+- 做什麼? 哦.,- What?,- what do you .,3,5,0.5,2
+不要管我了.,Don't worry about me.,no ' t t .,7,5,0.5,2
+"加拉格，她才是真命天子。 Gallagher, she's the real McCoy.","Gallagher, she's the real McCoy.","oh , she , she , she ' s <unk> .",9,11,0.5,2
+謝謝你，先生,"Thank you, sir.","you , , , , . .",5,7,0.5,2
+"Here's Texas guinan. And tonight, she's the sucker.","And tonight, she's the sucker.",i ' ' s the <unk> .,9,7,0.5,2
+"-我来了。 你好,夏普先生。",- Here I am.,"- i ' m , , .",5,7,0.5,2
+我猜你肯定会喜欢她的 嗯,- I know you'll like her. - Mm-hmm.,i ' ll tell you ' ll be her .,14,10,0.5,4
+- 怎么了?,What?,- what ' s matter ?,2,6,0.5,4
+我会告诉你路上的细节。,I will tell you the details on the way.,i ' ll tell you .,10,6,0.5,4
+不了，母親,"No, mother.","no , no , no , no .",4,8,0.5,4
+妈妈!,That's my mother!,mother !,6,2,0.5,4
+... 然后把小船推翻，这样看起来就像是一场意外,"""...then overturn the boat... it will look like an accident.""","the <unk> , , , , . . . . . . .",19,13,0.5,6
+然后，阿道夫， 你是不是无法控制地 解开了你的领带？,"And then, Adolph, didn't you, with - with an uncontrollable impulse - didn't you untie your tie?","- oh , , , you ' t you you you ' re you ?",25,15,0.5,10
+别担心，我会帮你办妥一切,"Don't worry, baby. I will fix you so that you are as good as new. You will see.","don ' t t you , i ' m you you .",24,12,0.5,12
+把你每一次送货的地方写下来...,I need you to write down the location of each drop you've made...,you you you to the <unk> . . . . .,18,11,0.4828,7
+一我走 一去向玛特尔小姐献殷勤去．,- I'm going. - My compliments to Mademoiselle Martel.,- i ' ll go to to to to to . .,13,12,0.48,1
+"从现在起，你只是安妮·斯凯勒的丈夫。 From now on, you'll be just Anne Schuyler's husband.","From now on, you'll be just Anne Schuyler's husband.","now , , , , you ' s <unk> .",15,10,0.48,5
+你不明白你來這,"Don't know what you want, do you?",you don ' t you you you you you .,11,10,0.4762,1
+从来都不信 我自己都不信,- Never! - I wouldn't believe it myself.,i ' ' t t believe to me .,12,9,0.4762,3
+让他进来，他是我的客人！,"""Let him in, he's my guest !""",he he he he ' s him him !,12,9,0.4762,3
+恐怕你不适合当母亲...,We are afraid you're no fit mother... ـــــــــــــــــ ـــــــــــــــــ,you ' ' t you . . . .,12,9,0.4762,3
+这是我幸运的兔子脚(吉祥物),"""That's my lucky rabbit's foot.""",that ' s my <unk> <unk> <unk> <unk> .,12,9,0.4762,3
+我想你会喜欢这个的。 I think you'll like this.,I think you'll like this.,i ' ' t you ' t you .,8,9,0.4706,1
+一嗯．请相信这一点 一请相信,"- Oh, please. - Please.","- i , i ' m sorry . .",8,9,0.4706,1
+"我能看看那卷轴吗, 约瑟夫爵士?","May I see that scroll, Sir Joseph?","i ' m see , i , ?",9,8,0.4706,1
+我回家看望我的孩子。,I've come home to see my child.,i ' ll be my my .,10,7,0.4706,3
+我早厌倦了,I'm tired of feeding ya for nothing.,i ' m going to <unk> .,10,7,0.4706,3
+"-我要这顶帽子。 -那外套呢? - Well, I'll take the hat.","- Well, I'll take the hat.",- i ' m going to .,10,7,0.4706,3
+"哦，我希望如此。 Oh, I hope so.","Oh, I hope so.","oh , i ' m i , i ' m .",6,11,0.4706,5
+這兒沒有人.,There's no one here.,that ' s all right .,7,6,0.4615,1
+可能現在不是很陌生了.,Maybe not so strange now.,now ' s not . . .,6,7,0.4615,1
+我想做任何事.,I want to do anything.,i ' m going to . .,6,7,0.4615,1
+我們去找她.,Let's go find her.,we ' ll her her .,7,6,0.4615,1
+太糟糕了,"""That's awful!""",that ' s the matter .,7,6,0.4615,1
+-你可以走了，斯迈思。,"- You may go, Smythe.","- you ' re you ,",7,6,0.4615,1
+这就是他们的做法 但他们是在哪儿做的?,"That's what they did, but where did they do it?",that ' s they they they they they they they they ?,14,12,0.4615,2
+你别费劲了 我来处理Tom,Just don't bother yourself. I'll deal with Tom.,"you don ' t t you , i ' m you .",14,12,0.4615,2
+我们结婚了。 我想该做的是亲亲言和，妈妈。,We're married.,we ' ' t want to <unk> .,5,8,0.4615,3
+- 我恨死薄饼了,- I hate pancakes.,- i ' m going to go .,5,8,0.4615,3
+是的，可我希望他没有那么做,Yes. I rather wish he hadn't been.,"yes , i ' m i ' m he ' t want to me .",11,15,0.4615,4
+- 他們也不會因為這個殺他.,- They don't kill a man for that.,- he ' ' t t t they to him .,11,11,0.4545,0
+"听你这么说我很高兴。 Well, I'm certainly glad to hear that.","Well, I'm certainly glad to hear that.","you ' ' t you , i ' m you .",11,11,0.4545,0
+"你没有什么可抱怨的，妈妈。 You don't have anything to complain about, Mother.","You don't have anything to complain about, Mother.","you ' t you , that ' s your .",12,10,0.4545,2
+我．我非常高兴．小姐,"I'm - I'm extremely happy, madame.",i i i i ' m going to . .,12,10,0.4545,2
+你不喜歡只叫我的名嗎?,Wouldn't you like to call me by the first name?,you ' t you you want to my ?,13,9,0.4545,4
+"我想你是对的，妈妈。 I guess you're right, mother.","I guess you're right, Mother.","i ' you , i ' m you , i ' m .",9,13,0.4545,4
+我可想不出什么好办法,"I really oughtn't to, if I had any sense.",i ' ' t want to tell you .,13,9,0.4545,4
+一不，不，不是罗德斯基 一你怎么知道？,"- No. No, it's not Rodovsky. - How do you know?","- no , no , no , no , no , you know ?",17,14,0.4516,3
+记住，事后我们五五分成 此外你保证不能打伤我,"""Remember, we split fifty-fifty; and you promise you won't hurt me.""",""" , , we ' t want to tell you .",20,11,0.4516,9
+我也一样。 So am I.,So am I.,i ' m sorry .,4,5,0.4444,1
+——65美元。,- $65.,- that ' s .,4,5,0.4444,1
+那是什麼？,- What was that?,what is what ?,5,4,0.4444,1
+- Sit down.,- Sit down.,- i ' m .,4,5,0.4444,1
+你走吧.,You can go away.,you ' re .,5,4,0.4444,1
+-坐好。 闭上你的嘴。 -陷阱关了？,- Sit still.,"- yes , you .",4,5,0.4444,1
+"可以, 重子。","No, Shigeko.","i , , , .",4,5,0.4444,1
+不用了,No need to.,no ' s no .,4,5,0.4444,1
+"你要怎么做，告诉我怎么写剧本吗？ What you gonna do, tell me how to write a play?","What you gonna do, tell me how to write a play?","why you want to tell you , i ' m you to me ?",13,14,0.4444,1
+——另一个电报。 -谢谢你，迈克。,- Another telegram.,- i ' m .,4,5,0.4444,1
+我却永远不会忘记你,"And yet, I'll remember you always.",i ' ' t t you you .,10,8,0.4444,2
+- 你已經殺了一個人了!,- But you've just killed a man!,- you ' re going to the !,10,8,0.4444,2
+"比如, 我們提供拖布.","For instance, we'll take mop rags.","i , we ' ve got . .",10,8,0.4444,2
+- 滾開.,"- Go away, please.",- i .,6,3,0.4444,3
+我将签署。 I'll sign.,I sign.,i ' m <unk> <unk> .,3,6,0.4444,3
+- Very good.,- Smythe.,- i ' m sorry .,3,6,0.4444,3
+- 再说一遍?,- I beg your pardon?,- how ?,6,3,0.4444,3
+- 電報.,- Telegram.,- that ' s . .,3,6,0.4444,3
+- 他在.,- Yes.,- he ' s . .,3,6,0.4444,3
+- 小心 来,- Aah.,- come on the <unk> .,3,6,0.4444,3
+罚你今晚不许吃饭,"""For that you don't eat tonight.""",- you ' t t you .,11,7,0.4444,4
+来城里吧！,"""COME TO THE CITY!""",the !,7,2,0.4444,5
+-我知道 就当是您自己家,"- Yes, I know... Like at home!",- i know i know .,12,6,0.4444,6
+我能帮你吗？,Can I help you with anything?,i ' you you you you ?,7,7,0.4286,0
+她當然願意，先生,"Of course she would, sir.","she she , , , mr .",7,7,0.4286,0
+我要了些香檳.,I've ordered some champagne.,i ' m going to . .,7,7,0.4286,0
+"我可以說幾句話嗎, 夫人?","May I say something, Madame?","i ' m not , , ?",7,7,0.4286,0
+一今天晚上你有什么事干吗？,- What are you doing tonight?,"- how , you you you ?",7,7,0.4286,0
+我厌倦了,♪ I'm tired of ♪,i ' m going to <unk> .,7,7,0.4286,0
+找我的房間. 164號房,Looking for my room. 164.,i ' m my <unk> . .,7,7,0.4286,0
+真是郁闷的处境,It's a terrible situation.,that ' s <unk> <unk> <unk> .,7,7,0.4286,0
+-汉克，你好吗？ -很好，就是有点渴。,"- Hank, how are you?","- yes , you , you .",7,7,0.4286,0
+-你这奸诈的家伙。 - Me'? - You double,- You double-crossing hound.,- you ' re your <unk> .,7,7,0.4286,0
+- 总是这样,-It's always like that.,- i ' m this .,8,6,0.4286,2
+我沒有什麼要隱瞞的.,I have nothing to conceal.,i ' m going to <unk> <unk> .,6,8,0.4286,2
+我是来带走她和婆婆回家的。,I came here to bring her back.,i ' m her her .,8,6,0.4286,2
+- 我錢夠多的了.,- I have enough money.,- i ' m going to my .,6,8,0.4286,2
+我們沒有和你們接洽.,We did not approach you.,we ' ll you want to you .,6,8,0.4286,2
+你为什么改变了 这些席次牌呢？,Why did you change those place cards?,why do you do you ?,8,6,0.4286,2
+我非常爱科莱特,♪ I'm crazy for Colette ♪,i ' m not <unk> .,8,6,0.4286,2
+"打得好，先生，非常利落。 Well bowled, sir.","Well bowled, sir.","well , , , , , , . .",5,9,0.4286,4
+"我要这顶帽子，但我想照照镜子。 I'll take the hat, but I want to look in the mirror.","I'll take the hat, but I want to look in the mirror.","i ' m going to <unk> , i ' m <unk> .",16,12,0.4286,4
+你弄断了我的拇指,You broke my thumb.,you ' re you to my my wife .,5,9,0.4286,4
+一你讨厌她 一亲爱的，不要这么胡闹啦．,"- You hate her. - Oh, darling, don't be ridiculous.","- you ' you , i ' m not . . .",16,12,0.4286,4
+我得赶紧走,I got to run.,i ' m going to go to go .,5,9,0.4286,4
+为她的王子利益着想...,¶ In the interests of her prince...,she she her her . . . . .,10,9,0.4211,1
+我想看到她安全地抵达家时,I wanted to see her get home safely.,i ' ll find her to her . . .,9,10,0.4211,1
+我真是疯了,It's all right. I'm dreadfully sorry.,i ' m going to the .,12,7,0.4211,5
+一定很喜欢冯·伯恩伯格老师,She must have also had a crush on Miss von Bernburg.,"- no , miss von bernburg .",12,7,0.4211,5
+"- 她要醒了, 會給我打電話的.",- She'll be waking up and calling for me.,- she ' s all right .,12,7,0.4211,5
+"但是我, 相信我... 如果一個人不瞭解死亡, 它就不會瞭解人生.","But I, believe me... if a man doesn't know death, he doesn't know life.","but i ' m not , i ' m not <unk> . . .",24,14,0.4211,10
+保罗 我真替你高兴,"- That's not where I'm going. I live over there. Paul, I'm so happy.",i ' m you i ' m you you .,24,10,0.4118,14
+"我搞不清楚第一部分，从哪里开始... ... J""当...","I can't get that first part right, where it starts... 2 When...","i ' ' t t t you , i ' ' t t . . . . . . . . . . . . . . .",21,28,0.4082,7
+"Outside. Go on, outside.","Go on, outside.","i ' , , .",5,5,0.4,0
+你好! How do you do?,How do you do?,you you you you ?,5,5,0.4,0
+"-hmm. 这是你的主意，歌洛莉亚。 You know, that was your idea, Gloria.","You know, that was your idea, Gloria.","- i , you , , , , . .",10,10,0.4,0
+你想去哪？,Where are you going?,you want to go ?,5,5,0.4,0
+"是的,来吧。 Yeah, come on.","Yeah, come on.","yes , , , .",5,5,0.4,0
+你掉了錢包,You dropped your wallet.,you ' re you .,5,5,0.4,0
+我是弗兰克.,It's Frank.,i ' m going .,5,5,0.4,0
+"每次我这么做，你都把事情搞砸。 Every time I do, you mess things up.","Every time I do, you mess things up.","i ' m you , i ' m you .",10,10,0.4,0
+So there you are.,So there you are.,i ' m you .,5,5,0.4,0
+你是她们的上级,You are their superior.,you ' re her .,5,5,0.4,0
+那麼老套.,So threadbare.,that .,3,2,0.4,1
+Gee! - Great!,- Great!,the !,3,2,0.4,1
+- 你能不能專心點兒?,- Would you please pay some attention?,- you ' t you you ?,8,7,0.4,1
+Yeah.,Yeah.,i ' .,2,3,0.4,1
+遲些我再告訴你,I'll tell you later. Isn't that so?,"i me , i ' ll you you you you you .",13,12,0.4,1
+我要去瑞士,"To Switzerland, to have a baby.",i ' ll go to to .,8,7,0.4,1
+聽見了嗎?,Hear me?,- ?,3,2,0.4,1
+- 我應該下多少注啊?,- How much shall I bet?,- i ' m going to ? ?,7,8,0.4,1
+我想做些記錄.,I want to do some dictating.,i ' m going to <unk> <unk> .,7,8,0.4,1
+板! Board!,Board!,i ' !,2,3,0.4,1
+她不会去的！,"""She's not going!""",she ' ' t t her !,8,7,0.4,1
+A theme? What theme?,What theme?,how ?,3,2,0.4,1
+-像这样的一个发现！,- And a find like this!,- this is this this is this !,7,8,0.4,1
+"""我是他的妻子""","""l am his wife.""",""" l he ' s him him """,7,8,0.4,1
+你好?,Hello?,you you ?,2,3,0.4,1
+得了吧！,Spare me!,""" !",3,2,0.4,1
+法国大革命,The French Revolution.,the <unk> of the <unk> .,4,6,0.4,2
+- I do appreciate it.,- Thank you.,- i ' m not .,4,6,0.4,2
+- 又是在博物馆里吗?,- In the museum again?,- who is ?,6,4,0.4,2
+只是个样本,Just a sample.,that ' s a <unk> .,4,6,0.4,2
+"如果你還沒回來, 看來我們有必要去聘請別人了.","If you're not back, it will be necessary to engage someone else.","you ' re , , i ' ll go to to to . .",16,14,0.4,2
+"嗨,各位。 Hi, folks.","Hi, folks.","oh , , , . .",4,6,0.4,2
+Telephone the police. The number is Spring 3100.,The number is Spring 3100.,the <unk> <unk> .,6,4,0.4,2
+- 太對了.,- Quite so.,- that ' s . .,4,6,0.4,2
+- Patch pockets.,- Patch pockets.,- i ' ' s .,4,6,0.4,2
+我就知道 I knew it.,I knew it.,i know know i know .,4,6,0.4,2
+市长要离开,The Governor leaves. ـــــــــــ ـــــــــــ,"the <unk> , the <unk> .",4,6,0.4,2
+纳瓦拉的亨利,Henry of Navarre.,the <unk> of the <unk> .,4,6,0.4,2
+"- Fine! Fine, I don't blame her!","Fine, I don't blame her!","- i ' m sorry ,",9,6,0.4,3
+"去你的舱口吹吧，你这白头老公鸡。 Blow it in your hatch, you old, white -headed rooster.","Blow it in your hatch, you old, white-headed rooster.","you ' your your your , , you ' re .",14,11,0.4,3
+我也很想念你 保罗,"I missed you, Paul.",i ' ' t want to you you .,6,9,0.4,3
+- 你知道更不好受的是什么吗?,You want to know what's hard?,- you know you know ?,9,6,0.4,3
+怪不得她那麼匆忙.,No wonder she was running.,"- no , she ' t her . .",6,9,0.4,3
+最终祈祷之时到了,The time has come for the final prayer.,the <unk> <unk> the <unk> .,9,6,0.4,3
+-Remember about that 20th crack? Perfectly.,- Perfectly.,- i ' s the suit .,3,7,0.4,4
+"非常帅气的英式扣装，最新款。 A very handsome English bucking -suit, the latest cut.","A very handsome English Bucking-suit, the latest cut.","- ' s the <unk> , , .",12,8,0.4,4
+经过一夜美好宁静的休息后,"After a nice, quiet, refreshing night's rest.",- ' s a <unk> <unk> <unk> .,12,8,0.4,4
+斯迈思，我来接电话。,"Smythe, I'll get this. I'm expecting some friends.","- , , i ' m going to me .",15,10,0.4,5
+"Wait, wait. No, no, no, don't raise your arms.","No, no, no, don't raise your arms.","i , , , , , .",13,7,0.4,6
+- 我亲爱的 你该不会毁了自己的前途吧？,"-But, ma chère, you wouldn't jeopardize your prospects, would you?",- i ' m you you ' t you to my ?,18,12,0.4,6
+我说的是你 你,Not the war. You. That's what I'm talking about.,i ' m your your your your you .,16,9,0.4,7
+要我负责杀敌 不让我先练练怎么成,"If I'm gonna bump off the enemy, I gotta have some practise.","i ' ' t want to me , i ' m going to me .",16,15,0.3871,1
+但是普萊辛格先生一直以為 這是確定的 --,But Mr. Preysing has too great a regard for the certainty...,"but mr , mr . . . . . . . . . . . .",15,16,0.3871,1
+"加拉格尔，你绝对没有冒险，对吧？ Well, Gallagher, you certainly took no chances, did you?","Well, Gallagher, you certainly took no chances, did you?","oh , , , , , you , you ' t you .",13,13,0.3846,0
+你的下巴让我很想摸一下。 You've got the kind of chin I'd just love to touch.,You've got the kind of chin I'd just love to touch.,you ' ' t you to me to me .,16,10,0.3846,6
+我要去地底 到我的兄弟那儿去,"Into the Depths, ― to my brothers...",i ' ll go to my to my . .,11,10,0.381,1
+-不 别回去 别回去,I won't do it. - Never!,- no ' t go to go to go back .,10,11,0.381,1
+"是啊，它们也让我起鸡皮疙瘩。 Yeah, they give me the creeps, too.","Yeah, they give me the creeps, too.","oh , , , i ' m <unk> to me .",10,11,0.381,1
+我没有零钱，先生,"""I haven't any change, sir.""","i ' m not <unk> , , , . .",11,10,0.381,1
+今晚 约萨法特 今晚我就回来,"Tonight, Josaphat ― tonight when I come back...","- , , i ' ll be back .",12,9,0.381,3
+我出生的那个小镇...,"""The little town where I was born...""",i ' m my <unk> . . . .,12,9,0.381,3
+3月12日 终于...,12 March. Finally... finally!,the <unk> . . . . . . . . . .,9,12,0.381,3
+"我要盡可能過的舒服, 過的開心.",I'm going to have a good time while I can.,i ' ll be to my <unk> .,13,8,0.381,5
+我只是告诉安德烈 我没什么衣服可穿了,I was just telling Andre how I've nothing to wear.,i ' m going to tell me .,13,8,0.381,5
+我无话可说,Now what? I won't be able to say a word.,i ' m not to my .,14,7,0.381,7
+- 作为一个朋友和学者,- As a friend and an expert.,- a a <unk> of a <unk> .,8,8,0.375,0
+"你再幫我看看, 好嗎?","Will you help me again, please?","you you want to see , i ?",8,8,0.375,0
+我没办法帮助他,There's no helping him.,i ' ' t go to <unk> him .,7,9,0.375,2
+"Open it quickly, will you?","Open it quickly, will you?","i ' m you , you , you ?",7,9,0.375,2
+你现在就得告诉她,You have to tell her now!,you ' re you to her her her .,7,9,0.375,2
+- 是的， 这是她的名字,- Yes. It's her name.,"- yes , yes , yes .",9,7,0.375,2
+玛努薇拉 你太出色了,"Manuela, that was very good.","manuela , you ' re going to you .",7,9,0.375,2
+"- 你跟我來, 茲諾威特茲.","- You come along, Zinnowitz.","- i ' m sorry , , . .",7,9,0.375,2
+没事了 没事了,It's okay. It's okay.,that ' s all right .,10,6,0.375,4
+"直到我写完我的剧本。 That is, until I finish writing my play.","That is, until I finish writing my play.",i ' m my <unk> .,10,6,0.375,4
+你停这儿干什么？,"Hey, why have you come back in here for?",why you do you ?,11,5,0.375,6
+現在我是個賭徒... 一個逍遙法外的人在... 享受著讓我喜歡的每一件事物.,"Now I'm a gambler... running at large, like a happy pig... devouring everything of life that pleases me.",i ' ve been <unk> <unk> <unk> <unk> . . . . . . . . . . . .,28,20,0.375,8
+不 她事实上没这么说 可她一定能就是这个意思,"No, she didn't say that, but she didn't have to, I just know.",i ' ' t t her her her . . .,21,11,0.375,10
+我还以为你不来了怎么回事？,"Oh, Fergy, I was afraid you wouldn't come. Would you mind telling me what this is all about?",i ' t you want to you ?,24,8,0.375,16
+"这也是不公平的，因为我酒量很好。 It's an injustice, too, because I hold my liquor all right.","It's an injustice, too, because I hold my liquor all right.","that ' s not , i ' ' t be .",16,11,0.3704,5
+他们为什么要把我们送到这里来伤害对方？,Why should they send us out to fight each other?,they they they they to us to us to us ?,11,11,0.3636,0
+如果我们能拉拢到 詹金斯小姐...,"""If we can only interest Miss Jenkins...",we ' <unk> <unk> <unk> <unk> <unk> . . . .,11,11,0.3636,0
+我做得怎么样? Yes? How am I doing?,How am I doing?,i ' m you want ?,5,6,0.3636,1
+- 她吸引了我?,- Hers to me?,- she ' s her ?,5,6,0.3636,1
+早上好 教授,"Morning, Herr Professor!","- good evening , professor .",5,6,0.3636,1
+- 保罗 好可爱的名宇,- Paul. - Paul.,"- yes , <unk> .",6,5,0.3636,1
+許個願吧，皇后！,"One wish, O Queen!",""" , , , !",6,5,0.3636,1
+保重 玛努薇拉,"Be good, Manuela.",manuela manuela manuela manuela manuela .,5,6,0.3636,1
+什么？,- Yes. - What?,what ' s what ?,6,5,0.3636,1
+你现在身体感觉如何？,Do you feel all right?,you ' re you ?,6,5,0.3636,1
+"好好喝吧，妈妈。 Drink hearty, Mother.","Drink hearty, Mother.","well , , , , .",5,6,0.3636,1
+他看起來很平靜.,He looks so peaceful.,he he ' s he .,5,6,0.3636,1
+我得到了一份礼物。 闭上你的眼睛。,I got a present.,i ' ve been <unk> .,5,6,0.3636,1
+奥德萨的市民们！,"""Citizens of Odessa!",the <unk> of the <unk> !,5,6,0.3636,1
+快跑，路易斯！,"Run for it, Louis!",""" , , , !",6,5,0.3636,1
+嗯．拉克鲁瓦夫人,"Yes, Madame Lacroix.","- , , , . .",5,6,0.3636,1
+"珍珠, 如果它們要是碎了...","The pearls, if they were to break....","oh , , , we ' s . . .",12,10,0.3636,2
+告诉他穆勒医生希望马上见到他,Tell him Dr Muller wishes to see him urgently.,he ' he he ' t he him to his him .,10,12,0.3636,2
+"Oh, how do you do? You're Mr. Miller, aren't you?","You're Mr. Miller, aren't you?","how , you , you , you , you ?",12,10,0.3636,2
+我的爱,""" ...my nature """,my my my .,7,4,0.3636,3
+你胆敢,How dare you.,"you ' re you , you .",4,7,0.3636,3
+我不该休假回来的 我明天就回去,I shouldn't have come on leave.,i ' ' t t t i ' ll be to find .,9,13,0.3636,4
+我们都对你很关心,"Uh, two vermouth. You see, we all thought you were dead.",we ' ll you you you .,15,7,0.3636,8
+"後來, 人們發現他死了.","Later on, they found him dead.","oh , , , he ' s dead .",8,9,0.3529,1
+我可以证明给你看,And I can prove it to you.,i i ' m you you you you .,8,9,0.3529,1
+你說呢？ 他們三個圍住我,The three of 'em rushed me.,"you ' re you to me , <unk> .",8,9,0.3529,1
+怎么回事 不告别吗,"What's this, no Adieu?",- no ' t t t t you ?,8,9,0.3529,1
+我们只是想知道关于我们的未付工资。,We are asking about our unpaid salary.,we we we we we we to our .,8,9,0.3529,1
+但是 校长 我们尽力了,"But, Headmistress, we do our best.",but i ' ve got to we .,9,8,0.3529,1
+"- Hank, how are you? - Fine, but kind of thirsty.","- Fine, but kind of thirsty.","- i , you , you , you .",8,9,0.3529,1
+但是我决定不屈服,But I am determined not to weaken.,but i ' ' t t t you .,8,9,0.3529,1
+Sure I'm insane! But I got some good news for you.,But I got some good news for you.,i ' ' t you to me .,9,8,0.3529,1
+你忘了穿紧身衣了,"""You've forgotten your tights.""",you ' re going to the matter .,9,8,0.3529,1
+"男爵不在這兒了, 夫人.","The Baron is not here, madam.","- no , ' s not . . .",8,9,0.3529,1
+请到我办公室来好吗? Won't you come into my office?,Won't you come into my office?,i ' m you want to you ?,9,8,0.3529,1
+"我要一個房間, 一個大房間.","I want a room, a big room.",i ' ve got to my room .,9,8,0.3529,1
+你要把他的薪水簿拿走吗？,Would you like to take his pay book?,you ' re him to your <unk> ?,9,8,0.3529,1
+你认为你可以抵挡她的诱惑吗？,♪ Do you think you could resist her ♪,you you you you you to her ?,9,8,0.3529,1
+"我会很惊讶的，嗯？ What? I'll be surprised, eh?","I'll be surprised, eh?",i ' ' t want to the <unk> ?,8,9,0.3529,1
+"Ah, but he's a copenheimer.""","Ah, but he's a Copenheimer.""",i ' ' s the <unk> .,10,7,0.3529,3
+－我是你的兄弟。,- I wasn't doin' nothin'.,i ' m your your your .,10,7,0.3529,3
+这是一个弧形,"This, my dear, is called an arch.",this is this is a <unk> .,10,7,0.3529,3
+白忙了一场 我什么都没找到,No use. I couldn't find anything.,i ' m going to me .,10,7,0.3529,3
+- 有多少人參加你們的聚會?,- How many in your party?,"- no , <unk> <unk> <unk> your your your ?",7,10,0.3529,3
+乖，和妈妈一起玩。,"Be a good girl, play with this mother here.","oh , mother , mother .",11,6,0.3529,5
+-是的，先生 -对不起我感谢你的努力...,"- Quite, sir.","- yes , , i ' m not . . . .",5,12,0.3529,7
+这对你的律师朋友... ... 来说没什么但你不应该到处想着你可以收买人。,That's all right for your lawyer friend but you shouldn't go around thinking you can buy people.,you ' ' t you to you to you to you .,22,12,0.3529,10
+宝贝，你得回到我们这一边,"Oh, baby. How you ever come back to me?",""" , you , i ' ll go to go .",12,11,0.3478,1
+怎么回事，你就没把观众逗笑过,"""What's the matter?"" ""You hardly got a laugh!""","what ' s you , you ' re going to the <unk> .",16,13,0.3448,3
+"当然，你只会愚蠢地花钱。 Well, of course, you'd only spend it foolishly.","Well, of course, you'd only spend it foolishly.","oh , you , you ' ll be , you , you ' ll be .",13,16,0.3448,3
+按照你们俩的发展速度... ... 为了保全颜面，我们得离开这个国家。,At the rate you two are going we'll have to leave the country to save our faces.,you ' re going to the <unk> . . . . . . . .,20,15,0.3429,5
+这里能应聘的工作我都试遍了 你还有什么好建议吗？,"""I've tried every place in town for a job, do you suppose there's any use asking you?""","this is the <unk> , you ' s you ?",25,10,0.3429,15
+"""现在，你就能明白我为什么非常害怕 除夕夜在我身上会发生致命性的事情了""","""Now you know why i'm afraid of something fatal happening on New Year's Eve.""",""" "" l , i ' ll be you to me . i ' ll be to to . .",21,20,0.3415,1
+只会产生爱,Always love.,""" . .",3,3,0.3333,0
+"Sharpe. - Hello, miss mooney.","- Hello, Miss Mooney.","i ' , , , .",6,6,0.3333,0
+你让我怎么样都行,You can ask anything of me...,you ' ' t you want to me .,9,9,0.3333,0
+-非常感谢。 -好吧，好吧，别客气。,- Thank you very much.,"- oh , , . .",6,6,0.3333,0
+-你昨天在哪里？ -我和斯图去兜风了。,- Where were you yesterday?,- you ' re you .,6,6,0.3333,0
+这是你的错！,It's your fault!,this is your your your !,6,6,0.3333,0
+你离开宿舍前得向我报告,You must notify me before leaving the dormitory.,you ' re going to me to me .,9,9,0.3333,0
+当晚,That Night.,the <unk> .,3,3,0.3333,0
+一只鸟。,A bird.,- no .,3,3,0.3333,0
+一也许你应该去南部 一不．我太热了,"- ♪ Maybe you should go south ♪ - ♪ No, I'm too warm ♪","- i ' you you , you ' t you , i ' m going to you .",18,18,0.3333,0
+我不在乎别人说闲话,"That won't worry me, Mother.",i ' ' t t t t you .,9,9,0.3333,0
+年轻的妻子，现在是一位母亲 期盼着孩子的父亲回来,"The little wife, now a mother, plans for the day of daddy's return.","the <unk> , the <unk> , the <unk> of the <unk> of the <unk> of the <unk> .",18,18,0.3333,0
+實在太棒了！,Simply splendid!,the <unk> !,3,3,0.3333,0
+- 我还想问你呢,I was gonna ask you the same question.,- i want to tell you you you .,9,9,0.3333,0
+警察,The police?,the <unk> .,3,3,0.3333,0
+-我不吃了。 -天啊，真倒霉。,- No more for me.,- i ' m sorry .,6,6,0.3333,0
+Here you are. How do you like that?,How do you like that?,you ' you you you ?,6,6,0.3333,0
+一哇！,- Ah?,- ! !,3,3,0.3333,0
+先生，找你的钱,"""Wait for your change, sir.""","oh , , you ' re your wife .",9,9,0.3333,0
+"- 夫人, 您睡的好嗎?",- Did Madame sleep well?,"- no , , , ?",6,6,0.3333,0
+- 這個玩意有必要嗎?,- Are these things necessary?,- what is a <unk> ?,6,6,0.3333,0
+可是我為什麼要和你說這些?,But why am I telling you all this?,what i ' m you want to you ?,9,9,0.3333,0
+外出。 看一看材料。,Go outside.,come on .,3,3,0.3333,0
+转身,Turn around.,the <unk> .,3,3,0.3333,0
+什么样的展示品？,"""What kind of spectacle?""",what ' s what ?,7,5,0.3333,2
+我有很多原因高兴 你也会高兴的,I have every reason to be! You should be pleased too.,i ' m i ' m you you to you .,13,11,0.3333,2
+- 有人找過我嗎?,- Has anyone asked for me?,"- no , that ?",7,5,0.3333,2
+我试着去找他但没有找到,"and couldn't find him.""",i ' ll go to to find to find .,8,10,0.3333,2
+你为什么非要跟我们作对呢，马赫屈？,"""Why must you rebel against us, Marcus?",why why you want to tell you ?,10,8,0.3333,2
+就因为我晚上不和他们一起去,Because I don't go with them at night.,i ' ' t let me to to to to to . .,11,13,0.3333,2
+就是他，沒錯,"It's him, all right.",he ' s he ' s he ' s .,8,10,0.3333,2
+"你也可以给我看看，妈妈。 You might show some too, Mother.","You might show some too, Mother.","you ' t you , i ' m you .",8,10,0.3333,2
+母亲 我差点忘了 我带了些小礼物回来给您,"I almost forgot, Mother. I've got some little presents for you.","i ' m going to me , i ' m going to me .",16,14,0.3333,2
+我只是尽自己的义务,I have only done... My duty.,i ' m going to my wife .,10,8,0.3333,2
+目标 -奥德萨剧院,The target - the Odessa theater.,"- <unk> , <unk> .",7,5,0.3333,2
+- Just a minute. Johnson's outside.,Johnson's outside.,- i ' ' t you .,5,7,0.3333,2
+那个年轻人说得不全对,The young one is not quite right.,that ' s not the <unk> of the <unk> .,8,10,0.3333,2
+我体内的兽性将会发作,I'd yield to the animal in me.,i ' ll be <unk> <unk> <unk> .,10,8,0.3333,2
+怎能仅凭...,"I mean, it's only circumstantial evidence.",i ' <unk> . . . . .,10,8,0.3333,2
+再来一次,Again.,"come , , .",2,4,0.3333,2
+老天，你每天都写信,"Oh, to that little...","oh , you , you , you , you .",8,10,0.3333,2
+你好，安德烈？,"Hello, Andre.","hello , you , you , you ?",4,8,0.3333,4
+你说外面那些人没文化,"And anyway, what's the idea of calling them...",you ' ll be the <unk> of the <unk> .,14,10,0.3333,4
+可怜的老伙计，你到底做了什么 能让他们对你这样,"Poor old fella. Now, what could you have done to make 'em treat you like that?",""" , , you , you , you , you ' re you to you .",20,16,0.3333,4
+"不好意思，我去看看那个慢吞吞的人在干什么。 Excuse me, I'll run up and see what that slowpoke's doing.","Excuse me, I'll run up and see what that slowpoke's doing.","i ' ' t get to <unk> , i ' m not .",17,13,0.3333,4
+你已经读了那诅咒 你敢蔑视它吗？,You have read the curse. You dare defy it?,you ' re you you you ?,11,7,0.3333,4
+斯图是唯一一个有头脑的人。 Stew's the only man with brains enough for this.,Stew's the only man with brains enough for this.,that ' s a <unk> .,12,6,0.3333,6
+号码是DS4 -5 -1,"Uh, number Delta, Sierra, 4-5-1.","- yes , sir .",13,5,0.3333,8
+克裏米爾特夫人，您即將遠行 難道不想跟您的家族修好嗎？,"You are heading far away, Lady Kriemhild. Don't you want to make peace with your family first?",""" , , , , , ' t you to be to be ?",22,14,0.3333,8
+若你不信，可以去问守卫,"Alone? Well, perhaps I was mistaken, you know, it is quite dark out there.","you ' t you , , , ' t you .",19,11,0.3333,8
+Elizabeth Keen不是你的妻子 而是你的目标,"Elizabeth Keen is not your wife, she's your target.",you ' ' s your your your your your wife your wife your wife your wife your wife your wife your wife .,13,23,0.3333,10
+你买不起她 她能卖两倍的价钱,"""You can't buy her, she'll bring twice that much.""",you ' ' t her her her her her her her her her her her her her her her .,17,20,0.3243,3
+亲爱的校长 我想跟您谈谈幼儿园的事,"And, Headmistress, I would like to speak to you about the nursery school.","i ' m going to my , i ' ll be to my . .",16,15,0.3226,1
+"我是女人，大自然最可爱的建筑之一。 I am woman, one of nature's loveliest pieces of architecture.","I am woman, one of nature's loveliest pieces of architecture.","i ' ' , i ' m <unk> <unk> <unk> .",14,11,0.32,3
+那就别对我变女人。 Then don't turn female on me.,Then don't turn female on me.,"i ' ' t t me , i ' m",9,10,0.3158,1
+"开始欣赏我了，是吧？ Well, beginning to appreciate me, huh?","Well, begin to appreciate me, huh?","i ' m , i , i , , ?",9,10,0.3158,1
+你们不能跟她联系,You are not allowed to associate with her.,you ' t t t her her her her .,9,10,0.3158,1
+- 不過我再也不回弗裏德斯多夫了.,- but I am never going back to Friedersdorf.,"- no , i ' m not . .",10,9,0.3158,1
+"怎么了，夏普先生? What's the matter, Mr. Sharpe?","What's the matter, Mr. Sharpe?","what , , , , , , , ?",10,9,0.3158,1
+你还是认为为国捐躯是一件 美丽而又甜美的事 对不对？,"You still think it's beautiful and sweet to die for your country, don't you?",you ' ' t you to the <unk> of the <unk> of the <unk> of the <unk> .,20,18,0.3158,2
+我很担心他会打翻什么东西。 I was so worried he'd knock something over.,I was so worried he'd knock something over.,i ' ' t want to <unk> .,11,8,0.3158,3
+"斯迈思，给他们一杯酒，把他们赶出去。 Smythe! Smythe, give them one drink, throw them out.","Smythe, give them one drink, throw them out.","oh , , , , , they .",11,8,0.3158,3
+你吃这女人软饭5年,For five years you've lived off this woman.,you ' re going to the <unk> .,11,8,0.3158,3
+我得再多弄点钱。 I've got to have a little more money.,I've got to have a little more money.,i ' m i ' m <unk> .,11,8,0.3158,3
+我们再也不吃腐肉了！,We've had enough rotten meat!,we ' ' t t t let ' t t !,8,11,0.3158,3
+"我們不跳了, 你不介意吧?",Do you mind if we stop?,"we ' t t t you , you ' t you ?",7,12,0.3158,5
+你想上汽车来我家玩吗？,Why don't you come to my house riding in this car?,you want to me ?,14,5,0.3158,9
+状态不错．足以应对 跟我去散散步吧？,"Strong enough to face - to take a-a nice - a nice, long walk with me?","- no , no , i ' t want to me ?",20,12,0.3125,8
+我正好想找借口离开,There's going to be a big attack tonight and I'd just love to get out of it.,i ' ll go to to to the <unk> .,22,10,0.3125,12
+我们还没完呢,You'll regret this!,we ' ll be to <unk> .,6,7,0.3077,1
+但是孩子们必须信任我们,The children must trust us.,but that ' s the <unk> .,6,7,0.3077,1
+"救救我, 弗兰克.","Save me from it, Frank.","i , i , i .",7,6,0.3077,1
+All right. We'll do it again.,We'll do it again.,that ' s all right .,7,6,0.3077,1
+你可以顺便教他们几招,It's quiet tonight.,you ' re you to him .,6,7,0.3077,1
+They'll be down later.,They'll be down later.,i ' ' t get .,7,6,0.3077,1
+你應該把他殺掉！,You must have the murderer killed!,you ' ll take him !,7,6,0.3077,1
+"斯图·史密斯，木兰！ Stew Smith, a magnolia!","Stew Smith, a magnolia!","the , , , , , !",6,7,0.3077,1
+"好的, 你過來吧.","All right, you can come.","yes , , , . .",7,6,0.3077,1
+她一定喜欢我,-She must like me!,she she she me me me .,6,7,0.3077,1
+They bore me. They give me the jitters.,They give me the jitters.,i ' ' s the <unk> .,6,7,0.3077,1
+太烫了,It's way too hot!,that ' s the <unk> .,7,6,0.3077,1
+你的同事已经回伦敦了？,Your colleagues have returned to London?,you ' re your your ?,7,6,0.3077,1
+安娜卡苏纳蒙.,Anck-es-en-Amon.,- <unk> . . .,8,5,0.3077,3
+Is Conroy in? Let me have Conroy.,Let me have Conroy.,i ' ' t you to me .,5,8,0.3077,3
+"天啊，老板来了。 Geez, it's the boss.","Geez, it's the boss.","oh , , , .",8,5,0.3077,3
+我在想...,I was just thinking.,i ' m . . . . .,5,8,0.3077,3
+你带上那套衣服，我们打车送你回家。 You take the suit and we'll send you home in a taxicab.,You take the suit and we'll send you home in a taxicab.,"you you , you , you ' re to see .",15,11,0.3077,4
+- 那是四个月之前,"May, 1917.","- yes , that ' s the <unk> .",4,9,0.3077,5
+- 说真的 这些牌长的都一个样,- Yeah.,- i ' s the <unk> of the <unk> .,3,10,0.3077,7
+嗯 我就是觉得 单独呆在家也挺好的...,"Yeah, well, I just thought it might be nice, you know, to stay home alone... Just you and me.",i ' ' m going to <unk> . . . . .,27,12,0.3077,15
+当然，这些按钮不符合，但是... ... 我想他们还没被介绍过。,"Of course, the buttons don't meet, but...","oh , , , , , , . . . . . . . . . . . .",14,19,0.303,5
+对不起先生，我们关门的铃声已经响过了,"Pardon me, sir. Our closing bell has rung.","no , , , we ' s our .",11,9,0.3,2
+"伊姆霍特普, 这是尸体防腐处理的地方.","Imhotep, this is the place of embalming.","the , , , , , mr . . . .",9,11,0.3,2
+我看我们该回去了,I guess we'd better be going.,i ' ll go to go back to go back .,9,11,0.3,2
+你理应获得最好的生活 Lizzy,"You deserve the best in life, Lizzy.",you ' re you to the <unk> of your wife .,9,11,0.3,2
+我很高兴战争已结束了,We'll live in it until the war is over.,i ' m going to the <unk> .,12,8,0.3,4
+玛努薇拉 你这是说什么话？,"But, Manuela... what sort of talk is that?","manuela , you ' re you ?",13,7,0.3,6
+史密斯先生今天来帮了我们一个大忙。 Mr. Smith came here today to do us a great favor.,Mr. Smith came here today to do us a great favor.,"mr , , , , . .",13,7,0.3,6
+继续你的编目吧 我们会迟些打开它,Go on with your cataloguing. We'll open it later.,you ' re your to get .,13,7,0.3,6
+你说什么？,What was it like? I beg your pardon? What did you say?,why do you what ?,15,5,0.3,10
+但是我還是很感謝你關心我的事兒.,But it's very kind of you to take an interest.,but i ' m i ' m you . i ' m you .,13,14,0.2963,1
+让我抱抱你．我爱你,Let me take you in my arms. I love you.,i ' m you you you you you you you you you you you .,12,15,0.2963,3
+我要跟她翻云覆雨两个礼拜,"And when I'd found her, nobody'd see me for two weeks.",i ' m her her <unk> <unk> <unk> <unk> .,17,10,0.2963,7
+我忍不住哭泣,"That I shall lie awake in the dark and cry, because you're not here.",i ' ' t t you to <unk> .,18,9,0.2963,9
+你利用FBI和Pavlovich兄弟抓到了Tom 然后呢 再抓李小萍?,"You used the FBI and the Pavlovich brothers to get to Tom and what, get Xiaoping?",you ' ' t you to the <unk> ?,18,9,0.2963,9
+我也不想结婚,"If I had it to do over again, I'd marry him, or anything.",i ' ' t want to to <unk> .,18,9,0.2963,9
+"你告诉过我, 这些症状出现的时候 我不要听你的","You told me, when these fits came on I wasn't to listen.","you ' ll tell you , i ' ll be you , i ' ll be you .",16,18,0.2941,2
+- On top of the appendix.,- On top of the appendix.,- i ' ' t get .,7,7,0.2857,0
+我们战后到底会怎样？,What can happen to us afterwards?,we we we we to see ?,7,7,0.2857,0
+三个男子偷了我的将军号,"""Three men stole my General.",""" ' s the <unk> <unk> .",7,7,0.2857,0
+- Thank you. It's been a pleasure.,It's been a pleasure.,- i ' ' t you .,7,7,0.2857,0
+我建议今晚让他们休假吧,- I recommend leave till midnight.,i ' ll go to him .,7,7,0.2857,0
+好吧 好吧,All right.,"well , come .",3,4,0.2857,1
+"我再也不会离家出走了，亲爱的。 I'll never run away again, dear.","I'll never run away again, dear.",i ' ' t t i ' ' t . .,10,11,0.2857,1
+到這來.,Here we go.,this . .,4,3,0.2857,1
+第3節,The Third Canto:,canto canto .,4,3,0.2857,1
+司机．停车！,"Driver, stop!",- ! !,4,3,0.2857,1
+他甚至没去排队,"""He didn't even get in line.""",he ' ll be to to to the <unk> .,11,10,0.2857,1
+Wait a minute.,Excuse me.,i ' m .,3,4,0.2857,1
+开门,Open the gates!,the <unk> .,4,3,0.2857,1
+有人把它盗走了！,Somebody stole it!,the <unk> !,4,3,0.2857,1
+Turn around.,Turn around.,i ' m .,3,4,0.2857,1
+這邊請,Step over here.,the <unk> .,4,3,0.2857,1
+马赫屈到了的话 你会同意我们结婚吗？,"""When Marcus comes, will you give your consent to our marriage?""","i ' m <unk> to you , you ' re you to ?",15,13,0.2857,2
+奥耶小姐 你好吗？,Mademoiselle Oeuillet. Comment allez-vous?,"- you , you you ?",8,6,0.2857,2
+开始的一个秘密项目,By the Chinese government five years ago.,the <unk> of the <unk> .,8,6,0.2857,2
+-我的脚... ——格洛丽亚。 格洛丽亚。,- My feet are all...,- i ' m sorry .,8,6,0.2857,2
+I can button them with one hand.,I can button them with one hand.,i ' ' t know .,8,6,0.2857,2
+马尔加 你总是对她很刻薄,You're always so mean to her.,""" you you you , her her her her her her .",9,12,0.2857,3
+修完指甲之后 你会变得更英俊！,"""You'd look grand with a high polish!""","the <unk> , you ' ll be you !",12,9,0.2857,3
+胡說!,That's nonsense!,the !,5,2,0.2857,3
+他们悄悄溜进来 再溜出去,"They snuck in, and they're gonna sneak out.",they they to the <unk> to the <unk> .,12,9,0.2857,3
+爸爸要过来吗?,Is daddy coming over?,where ?,5,2,0.2857,3
+他不是你想象的样子,He is not who you think he is.,he ' t t you ' t you to your wife .,9,12,0.2857,3
+海伦我一会就带你回家,"Helen, I shall take you home presently.",i ' ll be you you i ' ll you you .,9,12,0.2857,3
+棒极了,Marvelous.,that ' s the .,2,5,0.2857,3
+哦 不 你死了,"Oh, no.",- no ' t you you ' re you .,4,10,0.2857,6
+- 快点 让我们吃饭吧,- Come on.,"- let me , we ' ll go back .",4,10,0.2857,6
+你们当中或许有人有着远大的理想和抱负,Some of you may have ambitions.,you ' re you to the <unk> of the <unk> of the <unk> .,7,14,0.2857,7
+先放一下对不起,"- The mail just came, Signor Capitano. - You censor it.","- no , <unk> , <unk> .",14,7,0.2857,7
+"是的,他们告诉我当时我在那 试图在闭馆之后进去",Yes. They told me I went there and tried to get in after it was closed.,"yes , we ' ll tell me to me .",18,10,0.2857,8
+别着急，现在还有个节目正在演,"""Take your time, there's another act to go on.""","don ' t t t the <unk> , , ' s the <unk> .",15,14,0.2759,1
+要是他们能拿张草席把你裹一裹丢掉,You'll be thankful if they slip a waterproof sheet...,""" they they they to the <unk> , you ' re to to you .",14,15,0.2759,1
+闭嘴 你难道不害臊吗,- Herr Professor! - Be quiet! Aren't you ashamed at all?,you don ' t t you you don ' t t you ?,16,13,0.2759,3
+"我一周挣75块，银行里有847块。 I make 75 bucks a week, and I got 847 bucks in the bank.","I make 75 bucks a week, and I got 847 bucks in the bank.","i ' m <unk> <unk> <unk> <unk> , i ' m <unk> .",16,13,0.2759,3
+"Well, thank you. I'll go and look for her at once.",I'll go and look for her at once.,"i ' ' t you , i ' m you .",11,11,0.2727,0
+咱们今晚不醉不归 一言为定,Here's hoping we get falling-down drunk tonight.,we ' t t t t t t be .,12,10,0.2727,2
+她穿那双鞋行军恐怕走不远 保罗 你提行军干嘛,She couldn't march many miles in those.,she ' s the <unk> <unk> <unk> ' s the <unk> .,10,12,0.2727,2
+"在发生这些事之后, 你需要好好的休息","After what happened, you need rest badly.","now , , , , you ' re going to your . .",9,13,0.2727,4
+如果我告诉了爸爸，那会 杀了他的，我很茫然无助！,It would kill my father if I told him. I am so helpless!,"i ' m going to tell me , i ' m going to my husband , i ' ll be him .",15,22,0.2703,7
+在想你那会是什么？,About whisky. What about whisky?,what ' s you want to you ?,7,8,0.2667,1
+啊，我的夫君，請不要離開我 我昨晚還夢見，兩座大山向你坍塌,"O my dear lord, don't leave me. I dreamt further that two mountains collapsed and buried you!","i , i , i ' m not , i ' m going to me , i ' m you to <unk> .",22,23,0.2667,1
+她不會去排練了.,She will not go to the rehearsal.,she ' ' t be her .,8,7,0.2667,1
+-我想在后面系条皮带。 ——好的。 你会得到一条皮带。,- Want a belt in the back.,- i ' m going to .,8,7,0.2667,1
+我在找价格标签。 I was looking for the price tag.,I was looking for the price tag.,i ' m going to <unk> .,8,7,0.2667,1
+那你能把她带过来吗？,Could you bring my wife here then?,you you you her her her ?,8,7,0.2667,1
+-他竟然说我是人贩子,He called me a white slave trader!,- he ' s a <unk> .,8,7,0.2667,1
+她才是罪魁祸首！,"""She's the guilty one!",she her her her her her !,8,7,0.2667,1
+我们把所有东西对半平分。 And we split everything 50 -50.,And we split everything 50-50.,we ' ' t <unk> <unk> .,8,7,0.2667,1
+你看上去很累,You seem very tired yourself.,you ' ll go to go to you .,6,9,0.2667,3
+"不，是罗斯湾。 Ix -nay, the oss","Ix-nay, the oss-bay.","no , no , no .",9,6,0.2667,3
+- 保证没人看见,-I'll take care of it.,"- no , the <unk> .",9,6,0.2667,3
+That's all right with me. I won't hold it against you.,I won't hold it against you.,that ' s all right .,9,6,0.2667,3
+我是专程来道歉的。 因为我不能忘记。,I came here because I could not forget.,i ' ' t know .,9,6,0.2667,3
+"一个幸福的大家庭。 One big, happy family.","One big, happy family.","- i ' , a <unk> , <unk> .",6,9,0.2667,3
+你从裤子里拿东西了吗？ Did you take anything out of those pants?,Did you take anything out of those pants?,you ' t you you ?,9,6,0.2667,3
+-你会怎么说？ -别说了，妈妈请。,- What would you say?,"- you ' re you , , , .",6,9,0.2667,3
+什么时候的？,"- To where, signora, to what town?",what ' s what ?,10,5,0.2667,5
+模仿街上的姑娘走路,Imitating the walk of the girl of the street. ــــــــــــ ــــــــــــ,the <unk> <unk> <unk> .,10,5,0.2667,5
+充满希望的天竺葵,The hopeful geranium.,the <unk> of the <unk> <unk> <unk> <unk> <unk> <unk> .,4,11,0.2667,7
+想叫你多提防那边的女人,Just be on your guard against the women out there.,""" you ' re you to the <unk> of your wife .",11,12,0.2609,1
+一种新的消遣 看别人快乐幸福的孩子,A new dissipation...watching the happiness of others. ــــــــــــــ ــــــــــــــ,- i ' m not the <unk> of the <unk> .,12,11,0.2609,1
+I'll tell you what let's do. Let's you and me sneak out all by ourselves.,Let's you and me sneak out all by ourselves.,i ' ' t you ' t you to you .,12,11,0.2609,1
+你別責備他，他工作太辛苦了,You must forgive him. He works so hard.,you ' re him him him him him him him him him .,10,13,0.2609,3
+他写这篇文章之前不是出过海吗？ Didn't he go to sea before he wrote about it?,Didn't he go to sea before he wrote about it?,he ' s not <unk> to <unk> to <unk> .,13,10,0.2609,3
+"这让我想起了我在巴黎开业的那晚。 You know, it reminds me of the night I opened in Paris.","You know, it reminds me of the night I opened in Paris.",i ' m going to me to me .,14,9,0.2609,5
+副市长 我得出去看看,The mayor? This I have to see!,i ' ll go to see . i ' ll go to see .,9,14,0.2609,5
+"克林格蘭先生會是個好朋友, 他不準備接受你跳舞的邀請.",Mr. Kringelein would be a good friend and not accept your invitation to dance.,"mr , , , , , ' t you ' re to to . .",16,15,0.2581,1
+"如果 她丈夫来了，千万不能发现她在这儿""","""lt wouldn't do for her husband to see her should he come.""",she ' her her her her her her her her her her her .,17,14,0.2581,3
+叫我今晚请你喝个够,I-It's just that the boys... told me to amuse you for a little while.,i ' m you you you you you .,22,9,0.2581,13
+你这么勇敢，只为了救我 冒你生命危险来到敌人地区,"""It was so brave of you to risk your life, coming into the enemy's country, just to save me.""","you ' re you , i ' ll you you to you .",26,13,0.2564,13
+Wait a minute.,Wait a minute.,i ' m .,4,4,0.25,0
+珍珠是冷的.,Pearls are cold.,"yes , s .",4,4,0.25,0
+他的... ... 是的。,"For instance, take Mr. Miller.",he ' s . . . . .,8,8,0.25,0
+Start the engine.,Start the engine.,that ' s .,4,4,0.25,0
+你呢？,And your name?,you you you ?,4,4,0.25,0
+杀了他们！,Smash 'em!,""" they they !",4,4,0.25,0
+我想在后面系条皮带。 I want a belt in the back.,I want a belt in the back.,i ' ' ve been to <unk> .,8,8,0.25,0
+我也必须继续大不列颠博物馆的工作,I'd go on with my work for the museum.,i ' ' t to <unk> <unk> <unk> <unk> <unk> <unk> .,12,12,0.25,0
+給我的房間要和你們給 普萊辛格總經理的一模一樣.,The same kind of room you'd give General Director Preysing.,i ' ll be you to your <unk> . . .,13,11,0.25,2
+进来。 我给你拿杯喝的。,Come in.,i ' m you .,3,5,0.25,2
+任何人不得进入病房,No one is allowed in the hospital ward.,"- no , no , no .",9,7,0.25,2
+五點鐘左右.,About 5:00.,the <unk> .,5,3,0.25,2
+这看起来很荒唐，尤其我们只认识了对方 如此短的的时间，但我是认真的,"It seems absurd when we've known each other such a short time, but I'm serious.","that ' s the <unk> , the <unk> , <unk> , i ' s the <unk> . . .",21,19,0.25,2
+那种才真的是防不胜防,They don't give you much warning.,that ' s not . . .,9,7,0.25,2
+"像过去的爱情一样? J"" j"" like the loves of old? J""",2 Like the loves of old?,""" ' s the <unk> <unk> <unk> <unk> ?",7,9,0.25,2
+你挡着我的路！,You've chased me all this way.,you ' ll my my wife !,9,7,0.25,2
+"-你是说齐格飞的斯坦利·夏普吗? -是的。 - You mean Stanley sharpe, from Ziegfeld?","- You mean Stanley Sharpe, from Ziegfeld?",- you ' s the <unk> .,9,7,0.25,2
+我想和你谈谈。 Smythe.,Come here.,i want you you .,3,5,0.25,2
+由于你自己的粗心大意，你受了伤害。,You got injured by being careless.,you ' re you to your to you .,7,9,0.25,2
+還有 --,And then...,- yes .,5,3,0.25,2
+這事結束了!,That's it!,this is !,5,3,0.25,2
+我们什么时候去玩乐呢？,When are we going to have all that fun?,we we we we we ?,10,6,0.25,4
+不合理吗? 你知道楼下是什么样子吗？,Unreasonable?,"- no , you know ?",2,6,0.25,4
+我們要能湊夠幾個人來玩.,If we could scare up some men to play.,we ' ve been <unk> .,10,6,0.25,4
+我和她结婚的时候 她只是个深褐色头发的女子,"When I married her, she was a brunette.",i ' her her her her her her her her her her her .,10,14,0.25,4
+她们可能不是什么好女人,They're no good.,she ' ' t t t know to her .,6,10,0.25,4
+亲爱的,"Oh, darling, darling.",""" .",6,2,0.25,4
+不 你怎么玩？,"Did you bring me some good cases, baby?",- no ' t you ?,10,6,0.25,4
+你怎么跟个老男人勾搭在一起了,Some fiancé you hooked.,you ' re you to the <unk> <unk> <unk> <unk> .,5,11,0.25,6
+"付钱，好吗，加拉格尔？ 有时间我会还给你的。 Pay that check, will you, Gallagher?","Pay that check, will you, Gallagher?","oh , , , , i ' ll you , i ' ll you .",9,15,0.25,6
+院长才是疯子！,"It's the director who's insane!""",""" is your wife !",11,5,0.25,6
+与我？,- Didn't she go out there with you?,i ' m going ?,11,5,0.25,6
+格魯辛斯卡婭夫人不用車.,Mme. Grusinskaya's car is not to be brought.,mr . . .,12,4,0.25,8
+在爱的神殿里，圣洁的少女 生命之火,In the Love Temple. Virgins of the sacred fires of Life.,the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .,13,27,0.25,14
+他擋住了我，我沒辦法做事,He got in my way. I couldn't work. What about you?,"he ' s <unk> me , i ' m i i ' m going to me .",16,17,0.2424,1
+他是个好人，我希望他 会给你留下深刻的印象,He is a fine man. I hope he will make a good impression on you.,"he ' s he ' t want to me , i ' ll be him .",17,16,0.2424,1
+"- ""噢 卡洛斯 你对我真残忍啊""","-""O Carlos, how cruelly you play with me.""",- - i ' m you you i ' m you .,13,12,0.24,1
+"我最後好不容易才等到的, 可這是什麼房間啊?","When I finally got one, what kind of a room was it?","i ' m not , i ' t you , ?",14,11,0.24,3
+她长时间的守候有了回报 她要去警告伯沙撒 巴比伦将受到新的攻击,"Her long wait rewarded, she goes to warn Belshazzar of the new advance on Babylon.",she ' s the <unk> the <unk> <unk> the <unk> of the <unk> of the <unk> .,17,17,0.2353,0
+你可以花6比特买下他。 You could have bought him for 6 bits.,You could have bought him for 6 bits.,you ' re you to to to .,9,8,0.2353,1
+他们是新来的志愿少爷兵,- Volunteers for the future generals' staff.,they they they they to the <unk> .,9,8,0.2353,1
+姐姐，這就是你的傑作！,"O sister, what you have wrought!","- , , , your wife your wife !",8,9,0.2353,1
+我們正在搜查 我沒看見,I haven't seen a soul.,we ' we to to me to me .,8,9,0.2353,1
+你从哪里得到这些钱？,"""Where did you get this money ?""",you ' t you want to you ?,9,8,0.2353,1
+我得收拾一下旅行用的東西.,I had to arrange about the trip.,i ' ll be a <unk> <unk> <unk> .,8,9,0.2353,1
+... I'm not gonna live in your house. You might as well get that straight.,You might as well get that straight.,i ' ' t get to the <unk> .,8,9,0.2353,1
+"""真的 王子的那封被拦下来的信..."" ""... 起不到什么作用""","""Truly, an intercepted letter from the prince would work with rare effect.""",""" "" the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . """,16,18,0.2353,2
+把这个放走廊去,"Take him up those stairs, down the corridor.",this this is this the <unk> .,10,7,0.2353,3
+"Yes, I'm sorry. I struck him in your house.",I struck him in your house.,"i ' m sorry , i ' m you .",7,10,0.2353,3
+紡織業的人一定知道曼徹斯特.,A man in the textile industry must know Manchester.,the <unk> <unk> <unk> <unk> <unk> .,10,7,0.2353,3
+艾柏特 我回来了,"Albert! Albert, I've come back!",i ' m going to me .,10,7,0.2353,3
+我在想什么,♪ What I'm feeling ♪,i want to what do you want to what ?,7,10,0.2353,3
+你是该刮胡子了,You really should shave.,"you ' re you , you ' re going to the .",5,12,0.2353,7
+你们看看这个皮革,Look at that leather!,"you look you look , that ' re going to see .",5,12,0.2353,7
+你去哪啊?,"Come here. Hey, hey, hey. Where you going?",you you want ?,13,4,0.2353,9
+此身，吾所爱也 汝魂灵更为吾所怜,"It was not only this body that I loved, it was thy soul.","oh , , , i ' ll be <unk> <unk> .",15,11,0.2308,4
+你记得他们做了什么 桥上出事那天你也在,You remember what they did. You were there that day on the bridge.,you ' re gonna to you to you to you .,15,11,0.2308,4
+他们正在想新方法 好把我也干掉,"Paul, they're tryin' to invent somethin' to kill me right now.",they they they they to the <unk> <unk> .,17,9,0.2308,8
+"你最好把这事搞清楚。 - Oh, such a sweet nose. - Whether the nose is sweet or not...",- Whether the nose is sweet or not I'm not gonna live in your house.,you ' re going to the suit .,18,8,0.2308,10
+- 剩下的路我没法走了,Looks like the old bread wagon's broke down. - I guess I don't walk the rest of the way.,"- yes , i ' m going to go .",25,10,0.2286,15
+你不离开 这座房子的话．我走,Either you leave this house or I do.,you ' ' t you to the <unk> .,9,9,0.2222,0
+你的衣服都准备好了 - 我还记得是你抓到这只的,"Your things are ready for you, Paul.",you ' re going to you . you .,9,9,0.2222,0
+我真的在你身上浪费时间,Pity is something that is wasted on you.,"i ' m my your you , you .",9,9,0.2222,0
+一個錯誤.,That's wrong.,- a <unk> .,5,4,0.2222,1
+来吧。 - Bring him in. The more the merrier.,The more the merrier.,- come on .,5,4,0.2222,1
+那位先生是谁？,Who is that gentleman?,"mr , mr ?",5,4,0.2222,1
+尝尝看,Have a taste.,""" ' s the .",4,5,0.2222,1
+四处走走。 看看你穿西装的感觉如何。,Take a walk around.,"oh , , .",5,4,0.2222,1
+关上门 不,Shut the door.,"- no , no .",4,5,0.2222,1
+过来,"""Come here!""","come , come .",5,4,0.2222,1
+火炬散發出金色的光芒,The golden torch of hope...,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,8,10,0.2222,2
+能跟他有个孩子让我那么激动,I was excited to have a child with him.,""" he ' s a <unk> <unk> .",10,8,0.2222,2
+两个袖子。 两个袖子。 Two sleeves.,Two sleeves.,i ' m a <unk> .,3,6,0.2222,3
+你的钥匙在那儿,That's where I saw your keys. Oh.,your your your your the <unk> .,11,7,0.2222,4
+你不喝?,Nothing?,you don ' t t you ?,2,7,0.2222,5
+"那是一件很糟糕的事，安妮。 That was kind of a rotten thing to do, Anne.","That was kind of a rotten thing to do, Anne.",that ' s all right .,12,6,0.2222,6
+我们一起去见巴克莉,"And you're an ass. And now we will eat and drink, and I will take you to meet Miss Barkley.",we ' ll go to to to to the <unk> .,25,11,0.2222,14
+你真是最不可理喻 最不领情的女孩了,"Oh, you're a most unreasonable girl and most ungrateful.",you ' ' t you ' t you ' t you ' t you .,13,15,0.2143,2
+"我是想問, 和你在走廊聊天的先生是誰?","I mean, who were the gentlemen you were talking to in the corridor?","i ' , i , you , you , you , you .",15,13,0.2143,2
+我们靠他们为生 靠他们,We make a living off them... We live.,we we they they they they they they they they they they they they they .,12,16,0.2143,4
+穆勒就在阿拉伯广场上,Muller's down in the Arab quarter now.,the <unk> the <unk> the <unk> the <unk> .,10,9,0.2105,1
+校长一直觉得这样做最好,The headmistress thought about it for a long time.,- i ' m going to the <unk> .,10,9,0.2105,1
+我禁止你再跟玛努薇拉讲话,I forbid you to talk even one word with her!,"i ' ll you you , manuela .",11,8,0.2105,3
+我可怜的丈夫正在剧院等我,My poor husband is waiting for me at the theatre.,i ' m my my my my .,11,8,0.2105,3
+不过幸运之神不一定会在你这边,"But as soon as we knew, we arranged everything.","no , no , no , no .",11,8,0.2105,3
+"我也是这么想的, 穆勒.","I guessed as much, Muller.",i ' ' s what i ' m going to . .,7,12,0.2105,5
+我明确地向你们告知 启示录上所预言的日子将近了,"Verily, I say unto you: the days of which the Apocalypse speaks draw nigh...!",i ' ll be to the <unk> <unk> .,20,9,0.2069,11
+例如，一条鱼可以把鱼放入水中... ... 但不能在陆地上，因为他会不适应。,"For instance, a fish can putter in water but not on land, because he'd be out of place.","i , , , , , i ' ' t <unk> to <unk> . . .",23,16,0.2051,7
+有什么不对的吗?,Is anything the matter?,why why why not ?,5,5,0.2,0
+哈利法克斯农化所,Halifax Agro-Chem.,the <unk> <unk> <unk> .,5,5,0.2,0
+Always was Smith. Always gonna be Smith.,Always gonna be Smith.,i ' m <unk> .,5,5,0.2,0
+"在這個時候關於 曼徹斯特的事, 我不能表態.",I cannot commit myself at this time about Manchester.,"the <unk> <unk> , i ' m not <unk> .",10,10,0.2,0
+Miller. He's... Yeah.,You take him.,i ' ll be . .,4,6,0.2,2
+去哪,Where is everyone?,where ' s the <unk> .,4,6,0.2,2
+我們比試三個回合，龔特爾殿下,"Let the triple battle begin, King Gunther!","we ' ll be to the <unk> , , . .",9,11,0.2,2
+17家 等等,17. Wait.,i ' m <unk> <unk> .,4,6,0.2,2
+教授和米基之间 出现一些问题了,There's something wrong between the professor and Mitzi.,""" , , , , the <unk> <unk> .",11,9,0.2,2
+一匹马病了,A Sick Horse.,- i ' m going .,4,6,0.2,2
+是的 当然啦,You love it of course.,"yes , yes .",6,4,0.2,2
+- 你省省吧,All of you!,- you ' re you .,4,6,0.2,2
+总共有三万人,- Thirty thousand.,""" no , <unk> <unk> .",4,6,0.2,2
+小姐 先生,- Madame. - Monsieur.,"mr , mr .",6,4,0.2,2
+我是以高级军官身分跟你们说话 - 你们想闹上军事法庭吗？,I command you as your superior officer!,i ' ll be you to you to you to you ?,8,12,0.2,4
+"不要让这些可怜的无辜的小家伙们死去！""","""Don't let those poor, innocent creatures die!""","no , ' t be the <unk> of the <unk> of the <unk> of the <unk> .",13,17,0.2,4
+我只是想知道为什么 为什么？,What I'm tryin' to figure out is why.,i know what do you know what ?,12,8,0.2,4
+我的天,Don't let her die.,my my .,7,3,0.2,4
+打扰一下。 我马上就回来。,Excuse me.,"- , , i ' m .",3,7,0.2,4
+非常有趣,Most interesting.,"- no , that ' s .",3,7,0.2,4
+我认识你母亲 她是位很虔诚的女性,I knew your mother. She was a very pious woman.,i ' m you to her her .,12,8,0.2,4
+将那卷轴与我同葬 让那渎神之举从此在埃及绝迹,"The scroll he ordered buried with me, that no such sacrilege might disgrace Egypt again.",""" that ' s the <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",17,13,0.2,4
+我是这儿的院工跟我来,"I am the porter, Signor Tenente. Come, follow me.",i ' m my my my .,13,7,0.2,6
+現在，克裏米爾特，除了上帝還有我自己 再也沒人知道藏寶地址了,"Now, Kriemhild, no-one knows anything of the Treasure other than God and myself!","now , , , , i ' ve been to <unk> .",18,12,0.2,6
+准备一下吧,Her husband's out there. Might as well let him in.,"- , , , . .",14,6,0.2,8
+让我们... ... 让我们在一起吧...,Take us... take us together...,we ' ll be . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,11,50,0.1967,39
+你们失去了理智吗 如果核心机毁灭了 整个地下城都会化为乌有,"Have you lost your minds ― ? If the Heart-Machine perishes, the entire Workers' City will be laid to waste ― !",you ' re going to the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,26,15,0.1951,11
+她是我的生命 我的财富 我的宝贝,""" She is my life "" "" My good and my gold. """,she was my my my my my my my my my my wife my my wife my my wife my my wife my my wife my my wife my my wife my my wife my my wife .,14,38,0.1923,24
+母亲你看 是面包 香肠 还有白米,"Look, Mother. Bread, sausage and rice.","you ' re you , that ' s a <unk> .",10,11,0.1905,1
+"你使得变成了现在这样的酒鬼！""","""You made him the drunkard he is!""",you ' re you to the <unk> of the <unk> .,10,11,0.1905,1
+为什么不让他带她走？,"""Why don't you let him have her.""",why why why not t t t t ?,12,9,0.1905,3
+你真那么认为？ 会的,Aren't you exaggerating a bit?,you ' re you you you ' re going to your wife .,8,13,0.1905,5
+"-你愿意出52.5美元吗? ——不,先生。 - Would you go to $52.50?","""Would you go to $52.507 No, sir.","- you ' t you , you ?",13,8,0.1905,5
+我在睡我的美容觉。 在哪？,"I'll let you have him in a little while, Ben.",i ' m my my my ?,14,7,0.1905,7
+为什么不打呢？,"If we're going to fight, why don't we fight?",why why why why why ?,15,6,0.1905,9
+当王妃在祈祷时 山中女孩去为她的伯沙撒而战,"While the Princess Beloved prays, the Mountain Girl goes to fight for her Belshazzar.",the <unk> the <unk> the <unk> of the <unk> of the <unk> of the <unk> .,16,16,0.1875,0
+誰要是帶給我特洛涅的人頭 我就給他花不完的金子！,"Whoever brings me the head of Tronje, I shall fill his shield with gold!","- i ' m my my husband my husband , i ' m my wife !",16,16,0.1875,0
+还有他放在前面的那只绵羊,Ilse. And the male sheep he put all the way in front.,""" he ' s the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",14,18,0.1875,4
+这时在詹金斯的家里， 进步人士在庆祝 他们成功地把这个 充满邪恶的世界纠正过来,While at the Jenkins home the Uplifters ــــــــــــــــ ــــــــــــــــ celebrate their success in righting the world that was all wrong.,the <unk> the <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> .,19,24,0.186,5
+大地啊，你已飲過齊格弗裏德的血,"You have drunk Siegfried's blood, O Earth!","you , , , , r diger , r diger .",11,11,0.1818,0
+左肩上枪,"Left shoulder, arms!","the <unk> , the <unk> .",5,6,0.1818,1
+好了 就这婆娘规矩多,Here we go again.,that ' s all right .,5,6,0.1818,1
+国家属于我们,The land is ours.,""" , we we we .",5,6,0.1818,1
+-小格洛丽亚·休斯? ——是的! - Little Gloria Hughes?,- Little Gloria Hughes?,"- the <unk> , <unk> .",5,6,0.1818,1
+是他的兄弟,That was his brother.,he ' s the <unk> .,5,6,0.1818,1
+我的臉被炸了.,Grenade in my face.,i ' ve been <unk> .,5,6,0.1818,1
+岸上来的代表,A delegate from shore.,the <unk> <unk> the <unk> .,5,6,0.1818,1
+真是好孩子,"Yes, you are.",that ' s a good .,5,6,0.1818,1
+那么这是一起谋杀了?,Then it was murder?,what ' s this is ?,5,6,0.1818,1
+I've got a suit... wait a minute now.,Wait a minute now.,i ' ' t get .,5,6,0.1818,1
+"直到我的 眼泪将我内心所有的悲痛驱散 我才能够幸福""","""l can't help crying too.""",i ' my my my <unk> <unk> <unk> <unk> <unk> <unk> .,10,12,0.1818,2
+妈妈和孩子的关系真的如此脆弱？,The bond between mother and child is so fragile?,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ?,10,12,0.1818,2
+一杯路易斯安那飲料酒.,A Louisiana Flip.,- i ' m <unk> <unk> .,4,7,0.1818,3
+我沒說錯吧.,There you are.,i ' m going to . .,4,7,0.1818,3
+"但是你却读出了那片陶器上的 ""安娜卡苏纳蒙""","But you read ""Anck-es-en-Amon"" on that piece of pottery.",but you ' re the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,18,15,0.1818,3
+鲁迪·瓦利。 鲁迪·瓦利。 It's Rudy valée.,It's Rudy Valée.,"<unk> , <unk> .",7,4,0.1818,3
+I got a new dress. New hat too.,New hat too.,i ' ' t want to .,4,7,0.1818,3
+在夜黑的时候走进了房里,And didn't you come into the house in the dark?,the <unk> the <unk> the <unk> the <unk> .,13,9,0.1818,4
+第一个，球江已决定把她所有的财产给重子。,"First, Tamae has decided to give all her fortune to Shigeko.",""" , , , the <unk> <unk> <unk> .",13,9,0.1818,4
+"""亲爱的爸爸妈妈 今天又是个可怕的星期天","""Dearest parents. Another horrible Sunday.",""" "" the <unk> of the <unk> of the <unk> of the <unk> .",8,14,0.1818,6
+我在这里坐了半个小时看着你... ... 我还不知道你的眼睛是蓝色还是紫色。,I've been sitting here for a half-hour looking at you and I don't know yet whether your eyes are blue or violet.,i ' ' m going to <unk> . . . . . . . .,29,15,0.1818,14
+他來了，對，是他,"Here he comes, yes it's he",he he ' s he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he .,9,36,0.1778,27
+我不会抱怨，如果你 你能够一天有三次陪在我的身边,♪ I'd not complain if you were near me three times a day ♪,"i ' ' t t you , i ' m you you , i ' m you .",16,18,0.1765,2
+第二個月要達到3000台,"In the second month, 3000... What is it?",the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,13,10,0.1739,3
+一个值得伯沙撒的父亲庆祝的日子,Belshazzar's father has a red letter day.,- a <unk> <unk> <unk> <unk> <unk> the <unk> of the <unk> .,10,13,0.1739,3
+球江遗留在日本的孩子,The angel Tamae had left in Japan...,the <unk> the <unk> the <unk> the <unk> the <unk> the <unk> .,10,13,0.1739,3
+如果你有一个甜美单纯的妻子,♪ If you had a sweet and pure wife ♪,you ' you you a <unk> of the <unk> of the <unk> .,10,13,0.1739,3
+但你要为那种 女人自毁前程,But to risk one's entire future for that kind of woman?,you you ' re you to the <unk> .,14,9,0.1739,5
+爱是最好的鼓励,Love's brave encouragement.,"- yes , the . .",6,6,0.1667,0
+你有妻儿和工作,"wives, children, jobs.",you ' re a <unk> .,6,6,0.1667,0
+"好吧，老灰姑娘是怎么想的？ Well, how does the old Cinderella Man feel about that?","Well, how does the old Cinderella Man feel about that?","well , , , , , , ' s all right .",12,12,0.1667,0
+他的眼睛還睜著.,His eyes are still open.,he he ' s <unk> .,6,6,0.1667,0
+侦探内田山野,Detective: San'nosuke Yamano,- ' s the <unk> .,6,6,0.1667,0
+- 就跟他们？,- Past the graveyard.,- they they they they they ?,5,7,0.1667,2
+别害怕,Do not be afraid.,don ' t t t you .,5,7,0.1667,2
+如同最初,♪ As the day ♪,i ' ll be the <unk> .,5,7,0.1667,2
+哪处都感觉不好,Conditions are bad everywhere.,- ' s not . . .,5,7,0.1667,2
+李小萍的案子有进展吗?,Where are we on Xiaoping Li?,how is your hat ?,7,5,0.1667,2
+- 是真的,-But it's true!,"- yes , yes .",7,5,0.1667,2
+我们可以在最好的 酒店里住两人套间,♪ In the best hotel we could get a suite for two ♪,we ' ll be the <unk> <unk> <unk> the <unk> .,13,11,0.1667,2
+这是我和女傧相,Myself and the bridesmaids.,this is my <unk> <unk> <unk> .,5,7,0.1667,2
+自从我受伤之后，就没...,"Wasn't I wounded, fighting for the glory of Italy?",i ' m going to <unk> . . . . .,13,11,0.1667,2
+我只喜欢跳舞,♪ I love dancing ♪,i ' m going to <unk> .,5,7,0.1667,2
+但有时也会死很多人,sometimes we are.,but i ' ll be . . .,4,8,0.1667,4
+我想他会为这奋斗 我可以感受到,No orange blossoms.,i ' ll tell him to me .,4,8,0.1667,4
+你自便吧 那边还有很多,Go help yourself.,you ' re going to the <unk> .,4,8,0.1667,4
+難道我們沒有各自的義務嗎?,Have we obligations?,i ' ' t want to to ?,4,8,0.1667,4
+快把他送去医护所,All right.,he ' ll go to go to the .,3,9,0.1667,6
+一切都是未知的,Nothing definite.,"- yes , that ' s the <unk> .",3,9,0.1667,6
+然后短暂地回了一会儿家 又去了Adams Morgan的拉德福德银行,Returned home briefly before making a stop at the Radford Bank in Adams Morgan.,i ' ' ll be the <unk> <unk> .,15,9,0.1667,6
+可以见到长长的河流,"""from which there is a divine view of the lake shimmering in moonlight.""",i ' ll be to the <unk> .,16,8,0.1667,8
+我们会等待 玛丽娅 但我们等不久,"We will wait, Maria...! But not for much longer ― !",we ' ll be <unk> to us .,16,8,0.1667,8
+我希望能你們能確保我跟我的部下離開這個大廳！,I demand safe conduct from this hall for myself and my men!,i ' ll tell you to my <unk> to my husband .,13,12,0.16,1
+我在黑暗中盯着那扇门,Then I just have to stare at the door through the darkness.,i ' m <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,13,12,0.16,1
+驻守恰塔奴加的南军奉令撤退,"The Southern army facing Chattanooga is ordered to retreat.""",the <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> the <unk> <unk> .,11,14,0.16,3
+凯撒将会在你们的眼前，从僵尸复活！,"Cesare will awaken from his death-like trance. ""Step right in!""",""" ' s the <unk> of your <unk> .",16,9,0.16,7
+如果可以的话 叫上面给你安排一个比较不危险的工作,"And if you could, get a job that's not quite so dangerous.",""" l , i ' ll be the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .",16,22,0.1579,6
+这东西不错，嘿，你告诉弗莱明我还想多要点,- Are you gonna see Lovo? - Yeah. Right away.,"it ' s not , , , i ' m not you .",13,13,0.1538,0
+"带着最甜蜜的惊喜 j"" with the sweetest surprise j""",I With the sweetest surprise I,the <unk> <unk> the <unk> <unk> .,6,7,0.1538,1
+有钱老婆的玉兰花。 A rich wife's magnolia.,A rich wife's magnolia.,the <unk> <unk> <unk> <unk> .,7,6,0.1538,1
+What do you guys want? Get back to your desks.,Get back to your desks.,you ' ' t you you .,6,7,0.1538,1
+谁想来讲这个故事？,Who will tell me his story?,that ' s this this ?,7,6,0.1538,1
+只是要给弗兰克个惊喜而已,"Just a surprise, for Frank.",that ' s the <unk> .,7,6,0.1538,1
+我是普萊辛格總經理.,This is General Director Preysing.,i ' m going to <unk> .,6,7,0.1538,1
+隨時隨地都有音樂.,Music all the time.,- i ' m <unk> . . .,5,8,0.1538,3
+祝你好运,"Goodbye, Padre. Goodbye, Frederico.",you ' re you .,8,5,0.1538,3
+-您能闭嘴么,- Pipe down!,- you ' t you to the matter .,4,9,0.1538,5
+竟然有人为我打架,Someone defending me?,but you ' t be me to me .,4,9,0.1538,5
+敌军开始反攻了,Counter-attack.,i ' ' t go to the <unk> .,4,9,0.1538,5
+你别进去,Not yet.,you don ' t you to go to you .,3,10,0.1538,7
+谁是大都会中喂食机器的活生生的饲料,Who is the living fodder for the machines for Metropolis ― ? !,the <unk> the <unk> of the <unk> of the <unk> of the <unk> .,13,14,0.1481,1
+现在他不得不离开,Not about her. - Now she's had to go away.,he ' ' t t t t he ' t t t .,14,13,0.1481,1
+國王啊，請不要讓相愛的雙方相互殘殺！,"My lord, do not allow they who love one another to kill one another!",""" , , , , ' t t <unk> <unk> !",16,11,0.1481,5
+不 我倒想呢 我在办公室里闷了一天,"Ah, no, I wish. I was cooped up in the office all day.",i ' ' t want to me to me .,17,10,0.1481,7
+國王把妹妹賜給下臣，這算什麼？,Since when is it customary among Burgundians to give the King's daughter in marriage to a vassal?,"the <unk> , , , , ?",20,7,0.1481,13
+但是如果我们雇佣一帮来自科尔玛 的发掘者来做这项工作 我们就能在两天内知道 这里到底有没有什么东西,"But if we put that gang of diggers from Kerma on the job, we can tell in two days if there's anything here.",but i ' ' <unk> to <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,27,14,0.1463,13
+国王对科利尼的偏爱 引起了反对者的憎恨,The King's favor to Coligny increases the hatred of the opposite party.,the <unk> the <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,15,40,0.1455,25
+或許弗蘭牡小姐也會來.,Perhaps Miss Flaemm would join us.,i ' m sorry . . .,7,7,0.1429,0
+给，来只雪茄,- You're the boss.,""" , , , , . .",7,7,0.1429,0
+非常感谢您 殿下,"Je vais bien, Your Highness.",- i ' ll be . .,7,7,0.1429,0
+"爱让我睁开了眼睛 j"" love has opened my eyes j""",♪ Love has opened my eyes I,i ' m going to me .,7,7,0.1429,0
+厄兹图 厄兹图 住手,Erztum... Erztum stop it!,"the <unk> , the <unk> .",8,6,0.1429,2
+是谁啊,"Who did? Well, who then?",who ' s a <unk> .,8,6,0.1429,2
+死亡都在等待着我,There's death there for me.,the <unk> <unk> <unk> <unk> .,8,6,0.1429,2
+是一顶普通的礼帽,Is an ordinary top hat...,"- yes , the <unk> .",8,6,0.1429,2
+可是我准备了150人份的伙食,And I cooked for 150!,i ' m going to the <unk> .,6,8,0.1429,2
+斯迈思会开门但波波是你哥哥迈克尔。,Smythe will open...,"the <unk> , you ' re you .",6,8,0.1429,2
+判决是把她送到婚姻市场上 找个好丈夫,The judgment is that she be sent to the marriage market to get a good husband.,the <unk> her her her her her her her her .,17,11,0.1429,6
+"""他就是那个在除夕，身上发生了 致命性的事情，被迫驾驶幽灵马车的人！""","""Whoever dies on this eve must drive the cart of death.""",""" he ' s the <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",14,28,0.1429,14
+一件非常尖锐的利器刺入身体一侧 造成了市务秘书的死亡,"The town clerk has been killed."" ""Stabbed in the side with a strange pointed instrument.""",- <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> .,20,23,0.1395,3
+詹金斯收到她哥哥 为发扬人道主义而捐献的支票,Miss Jenkins receives a check from her brother for the purposed uplift of humanity. ـــــــــ,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,15,14,0.1379,1
+可怜的新郎新娘感到非常痛苦 因为酒已经喝光了,¶ The poor bride and groom suffer great humiliation. ¶ The wine has given out.,""" ' s the <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",17,12,0.1379,5
+我會為你在那個位置做上十字記號的,I shall mark the spot with a little cross myself!,i ' ll you you you to the <unk> you . i ' ll be the <unk> .,11,18,0.1379,7
+他不在去哪儿了？,I believe that's why you got wounded. - Where is she? - You ought to be still.,he ' ' t t they ?,22,7,0.1379,15
+你告诉她我让她回家吃饭。 明白吗？ 当然可以。,[Italian] Where's Cesca?,you ' her her her her .,8,7,0.1333,1
+【克裏米爾特向哈根復仇】,How Kriemhild swears revenge to Hagen Tronje,"kriemhild , king gunther , the <unk> .",7,8,0.1333,1
+汝父于你作生死别,Thy father's last farewell.,""" you you , you , you .",7,8,0.1333,1
+想不想找份儿活干,"""Do you want a job?""",no ' t want to be .,8,7,0.1333,1
+"当然，你所要做的就是在这篇文章上签字： Of course, all you have to do is just sign the article:","Of course, all you have to do is just sign the article:","oh , you , you ' re you , , , you ' re <unk> .",14,16,0.1333,2
+"在这即将被毁灭的城市 ""我们的婚礼在明天举行""","In the doomed city. ""Our marriage will be announced tomorrow.""",the <unk> the <unk> the <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> .,14,16,0.1333,2
+我的願望像一道傷口,Like a wound is my desire,i ' m my <unk> to the <unk> .,6,9,0.1333,3
+不管其它人怎么说,I don't care what people say.,"no , no , no .",9,6,0.1333,3
+埃德嘉 这可真糟糕,"Edelgard, it's just so awful.",this is this is this .,9,6,0.1333,3
+过来吧,- Darling. ...if you stay.,"come on , come .",10,5,0.1333,5
+告诉我,"You won't tell him, will you?",tell me me me .,10,5,0.1333,5
+每件水手服都配一个球棒。 A bat and ball goes with every sailor suit.,A bat and ball goes with every sailor suit.,the <unk> <unk> <unk> .,10,5,0.1333,5
+起来,- I suppose your delicate nerves can't stand it.,come on .,12,3,0.1333,9
+古埃及的语言 在这片土地上已经有2000年没人听到过了,The language of ancient Egypt. Not heard on this earth for 2000 years.,the <unk> the <unk> the <unk> <unk> the <unk> <unk> the <unk> <unk> the <unk> .,15,16,0.129,1
+"她们组织在一起 ""发扬""人道主义","¶ In a western city we find certain ambitious ladies banded together for the ""uplift"" of humanity.",she ' s the <unk> <unk> <unk> <unk> the <unk> .,20,11,0.129,9
+"J"" 和你爱的人抱在一起的时候 j"" while spooning with the one you love j""",I While spooning With the one you love,""" you ' re your <unk> <unk> .",8,8,0.125,0
+你们既然不喜欢唱歌,We are in no mood for recreation.,you ' t you ' t you .,8,8,0.125,0
+我们不该呆在这儿,"Those mirrors are very attractive, too.",we ' ' t t t here .,8,8,0.125,0
+- 快点 快把伙食给大家分一分,- Come on! Give us--,- i ' ll be the <unk> .,8,8,0.125,0
+这些菜鸟的寿命通常都很短,I'd rather do it alone.,this is the <unk> <unk> <unk> <unk> .,8,8,0.125,0
+再来一下吧,- Why? - To stay out here.,"come on , <unk> , <unk> .",9,7,0.125,2
+The poor boy who marries a rich girl.,The poor boy who marries a rich girl.,i ' ' s all right .,9,7,0.125,2
+右腿截肢的那个,- Which one is that? - Amputated leg.,the <unk> of the <unk> .,10,6,0.125,4
+您别再生气了,"No need to get all worked up, Professor.",don ' t t you .,10,6,0.125,4
+然后贩卖门票,- you should rope off a big field--,- ' s the <unk> .,10,6,0.125,4
+别迟到 我可不想错过早餐,- And be on time.,don ' t t t t want to me .,6,10,0.125,4
+更何况在这真的很难找到双好靴子,And good boots are scarce.,- i ' ' this the <unk> . . .,6,10,0.125,4
+人总有所追求,I've got some people looking for her.,""" <unk> <unk> <unk> <unk> .",10,6,0.125,4
+更像是亵渎神灵,"Sacrilege, more likely.",that ' s <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,5,11,0.125,6
+"第五章 ""胜利大会师""","Part five. ""RENDEZVOUS WITH THE SQUADRON.""",""" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" """,10,22,0.125,12
+20年前我刚成为明星时我和你一样激动紧张,I was just as excited twenty years ago with my first success.,"the <unk> , i ' ll tell you to me you , i ' ll you you to you .",13,20,0.1212,7
+"You were right, Danny. Make him put it on the dotted line.",Make him put it on the dotted line.,"i ' ' t you , that .",9,8,0.1176,1
+世界上最棒的农夫,Meet Detering. A better farmer never lived.,the <unk> the <unk> of the <unk> .,9,8,0.1176,1
+总会在疾风骤雨中弯腰,""" The more the hail beats "" "" And the more the rains fall... """,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,18,16,0.1176,2
+我的仆人会照看好它的,My servant will see to him.,i ' ll be the <unk> of the <unk> .,7,10,0.1176,3
+囚犯... 绝对... 还被关在牢房里面吗？,"""Is the prisoner secure in his cell?""",""" . . . . . .",10,7,0.1176,3
+她代表着七宗罪,"All Seven Deadly Sins, on her behalf ― !",she her her her her her .,10,7,0.1176,3
+让我想说： 噢,♪ Can make me say Ooh ♪,"let me , i ' m going to me .",7,10,0.1176,3
+那双棕色的皮鞋,It was those brown leather shoes.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,7,10,0.1176,3
+那么我就可以说出,♪ Then I could say ♪,i ' m afraid i ' m going to me .,6,11,0.1176,5
+由它們來製造出我們的留聲機,They will manufacture our phonographs.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,6,11,0.1176,5
+英文字幕由柏林摩塞罗西公司制作,"Titles Moser+Rosié, Berlin","the <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",6,11,0.1176,5
+真的要来？,"All right, darling. How often will you write?",what ' s the matter ?,11,6,0.1176,5
+你好,- How do you do? - How do you do?,hello ' re you .,12,5,0.1176,7
+"j我永远不会变老j j"" I never grow older j""",I never grow older,i ' ' t t t i ' t get to me .,4,13,0.1176,9
+快点 45秒,- 45 seconds.,<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,4,13,0.1176,9
+巴别塔 赞美的圣歌成为了他人的诅咒,The hymns of praise of one man became the curses of others.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,13,22,0.1143,9
+那总比身上被射穿几个大窟窿好,"You get sent home, don't you? A lot better than havin' a hole in your guts.","the <unk> , the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",22,13,0.1143,9
+"""派人去叫大卫・霍姆过来！""","""Send for David Holm!""",""" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" """,7,28,0.1143,21
+尼伯龍根族在血的火焰中 做出了絕世好劍巴爾蒙格,No sword on earth compares with Balmung. The Nibelungen forged it in fire of blood.,the <unk> the <unk> the <unk> the <unk> <unk> the <unk> <unk> the <unk> <unk> the <unk> <unk> .,17,19,0.1111,2
+告诉所有想在南区卖酒的家伙们都来,"Big Louie, he always liked purple.",i ' ' <unk> <unk> <unk> <unk> <unk> <unk> .,8,10,0.1111,2
+我太爱你了 怎么？,"It's a fine room, a lovely room.",i ' m you you you ?,11,7,0.1111,4
+医生从今天早上五点到现在还没停过,One operation after another since 5:00 this morning.,"mr , the <unk> . . .",11,7,0.1111,4
+我不希望他为女人而这样,"- Yes, Signor Capitano.",i don ' t t t t t t to be .,6,12,0.1111,6
+但是...,And I wouldn't even know you if I did.,but . . . . .,12,6,0.1111,6
+王妃献上一朵白玫瑰,Beloved...a white rose...from Beloved.,"the <unk> , <unk> .",13,5,0.1111,8
+再說一次，尼伯龍根，在匈奴王埃策爾來祝賀你們之前 別忘記是誰讓你們能在埃策爾國王面前擁有舉足輕重的地位！,"Once more, Nibelungen, before Lord Attila comes to greet you:","the , , , , the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .",13,23,0.1111,10
+没关系 让他睡吧 他只是在做梦,"Yeah, yeah.",""" he ' he he he ' he he ' s he him .",4,14,0.1111,10
+外出将被取消 同时禁止穿制服,Days out will be canceled and wearing uniform forbidden.,"the <unk> , <unk> <unk> <unk> <unk> <unk> .",10,9,0.1053,1
+你就要偷笑了,- around that Aunt Sally of a carcass of yours.,you ' re going to the <unk> .,11,8,0.1053,3
+Echo呼叫Tango 目标已经到达,"Echo to tango. Uh, asset at drop point.",you ' ' t <unk> <unk> <unk> .,11,8,0.1053,3
+球江的工资一周4000美元。,"Tamae's salary is 4,000 dollars a week.",the <unk> <unk> the <unk> <unk> .,12,7,0.1053,5
+用盡全力，勝利在望,The finish line's in sight Pedal with all your might,""" , , , the <unk> .",12,7,0.1053,5
+院长先生，扔掉你的面具吧！,"""Mr. Director... Unmask yourself...","mr , , , your wife !",12,7,0.1053,5
+外科医生奇迹般的工作使医学界震惊,Miraculous Work Of Surgeon Astounds Medical Profession,the <unk> of the <unk> <unk> <unk> <unk> the <unk> <unk> .,7,12,0.1053,5
+对所有的女人――忠诚！,To loyalty - to all women!,the <unk> of the <unk> of the <unk> of the <unk> !,7,12,0.1053,5
+让他放松点吧,"Could perhaps send her to Milan. Excellent, my dear Major!",he ' ll be him .,13,6,0.1053,7
+還她手帕想製造絆聞？,- To return a hankie. - Want to start a scandal?,she she her her her ?,13,6,0.1053,7
+沒時間聽你的廢話,There's no time to lose.,""" ' s your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your your .",8,49,0.1053,41
+巴特利先生，她只不过... 怜悯了一个犯错的人,I'm sorry Miss Barkley appears to sympathise with one who has disgraced the uniform we all wear.,"mr , , , she ' s <unk> . . . . . . . . . . . .",20,20,0.1,0
+而后，我将诵读 伊希斯将奥西里斯自墓中,Then I will read the great spell with which,"i , i ' m <unk> <unk> <unk> <unk> <unk> .",9,11,0.1,2
+那是我们第三次或第四次约会时,It was our third or maybe fourth date.,we ' we we we ' ll be the <unk> .,9,11,0.1,2
+怎么样 好么 您拿着吧,Good... Yes? Please!,"what ' s what you , you ' re going to .",8,12,0.1,4
+一生中每晚都与你相约,♪ You have a date for every night your whole life through ♪,"- no , you . you .",13,7,0.1,6
+这里没有人能起床走路 修女,"- He's been ringing. Nobody can walk, Sister.",this is this is the <unk> .,13,7,0.1,6
+刚从加尔各答抵港,Just sailed in from Calcutta.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,6,14,0.1,8
+我爱你,It's nice. Isn't that enough?,i love you you you you you you you .,11,10,0.0952,1
+那一整兜子的金子是我的！,That sack full of gold is mine!,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> my wife my wife !,8,13,0.0952,5
+我没闹你 你看起来很好,Tell me truthfully. Of course not.,"i ' ll you you you you , i ' ll you .",8,13,0.0952,5
+"这是我在这里见过的最好的狩猎服。 The finest hunting suit, if I have ever seen, in this place.","The finest hunting suit, if I have ever seen, in this place.",that ' s all right .,15,6,0.0952,9
+不...,"Oh, for pity's sake, tell me! Fergy! No, no!",no . . .,17,4,0.0952,13
+马图申科趁着一片混乱 将水手们召集到炮台旁,"Matyushenko, under the guise of breaking ranks, calls the sailors to the gun turret.",the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,17,26,0.093,9
+到时候想吃被老鼠咬过的面包 恐怕都没有了,About two more days of this... and this rat-bitten end of a piece of bread's gonna taste like a hunk of fruit cake.,i ' ' ll be the <unk> <unk> <unk> <unk> <unk> .,31,12,0.093,19
+今天晚上对你整个职业生涯都至关重要,Tonight is crucial... For your whole career.,"the <unk> , you ' re <unk> to the <unk> .",11,11,0.0909,0
+我和德皇 对这场战争的看法有志一同 我们谁都不想要打仗,Me and the kaiser felt just alike about this war.,i ' ' ll be to <unk> <unk> <unk> <unk> .,11,11,0.0909,0
+我们很快又会见面的,"We never stay settled very long in a home, do we?",we ' ll be our to the <unk> .,13,9,0.0909,4
+很奇怪 她只字未提,It was strange. Bernburg didn't say a single thing the whole time.,- she she her her .,16,6,0.0909,10
+等等 她离开这里已经很久了,and I might even go so far as to get deloused. Wait a minute!,she her her . . .,16,6,0.0909,10
+我算出来你和一个近在眼前 肤色黝黑的英俊男人有姻缘,"""I see love and marriage with a dark, handsome man who is near you now.""",i ' ll be <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,19,26,0.0889,7
+都打算成为新老大，你晓得了吗,This town is up for the grabs. Get me?,""" , , , you , you , you ' re ?",11,12,0.087,1
+我是不是该勇敢地去做 这不正的行为,♪ Should I be brave and misbehave or not ♪,i ' ' t t t you ' t t to <unk> .,10,13,0.087,3
+我真的学得很好了 可是在冯·伯恩伯格夫人面前,"I really learned it well, but in front of Miss von Bernburg,",i ' m going to the <unk> . .,14,9,0.087,5
+我们可以因而热烈地 卿卿我我．甜言蜜语,♪ It allows a thrill when we start to bill and coo ♪,we we ' ll be <unk> <unk> <unk> <unk> <unk> .,13,11,0.0833,2
+这将是你们年轻生命最闪亮的开始,Here is a glorious beginning to your lives.,that ' s the <unk> of the <unk> of the <unk> of the <unk> .,9,15,0.0833,6
+从侦探的角度看 你最好现在就提出离婚吧,"Speaking ""detectively,"" you're as good as divorced right now.",the <unk> of your your your your your . .,15,10,0.08,5
+在加利利的迦南有一场婚礼,There was a marriage in Cana of Galilee.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,9,16,0.08,7
+到处都是幽灵，它们就在我们周围,"""There are spirits... They are all around us...","it ' s the <unk> , we we we we .",15,11,0.0769,4
+剩下的这六家 只有一家有足够大的建筑 可以把偷来的直升机藏起来并进行整修,"Uh, of the other six, uh, only one has a structure large enough to get that stolen helicopter out of view and under construction.",the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> .,28,24,0.0769,4
+他的假鼻子呢 不是一直在你手里,- Nose? The nose! You had it!,"he ' s a <unk> <unk> , i ' ' t you to your wife .",10,16,0.0769,6
+伯沙撒心爱的王妃 在飘着松香， 用纯金装饰的房间里 在王者的后宫中,"The Princess Beloved, favorite of Belshazzar, in a room of scented cedar, plated with pure gold, in the hareem of My Lord the Prince.",the <unk> <unk> the <unk> <unk> the <unk> <unk> the <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the,29,50,0.0759,21
+【克裏米爾特祭奠齊格弗裏德】,"How Kriemhild Mourned Siegfried, and How König Etzel (King Attila) Courted Her",siegfried siegfried siegfried siegfried siegfried siegfried siegfried siegfried siegfried the <unk> .,16,12,0.0714,4
+我已經把自己的親女兒許配給吉賽爾赫！,I engaged my only child to Giselher!,i ' m <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,8,20,0.0714,12
+我猜想 他希望有朝一日 能像哥德和席勒那样名留千古 而我也衷心的祝福他,"And he is dreaming, I suppose... of following in the footsteps of Goethe and Schiller... and I hope he will.",i ' ' ve been <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,28,29,0.0702,1
+在这场游戏中，一个男人需要 除了奋力工作以外的其他东西,A man needs more than hard work for this game.,the <unk> the <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> the <unk> <unk> <unk> .,11,18,0.069,7
+却从没看到有人回来过,I've seen a lot of'em go in that dying room... but nobody ever comes back.,"no , no , no .",23,6,0.069,17
+她请求原谅她,-She is asking to please forgive her.,she her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her,9,50,0.0678,41
+冈 让二 冈田嘉子,Masaya Kusakabe ... Joji Oka Tamae Kiyokawa ... Yoshiko Okada Keiji,<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,15,17,0.0625,2
+在布鲁克林区地下酒吧为了一个金发美女,"Where'd they run it, in the razor ads?",the <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,12,21,0.0606,9
+唔，味儿真不错，很贵吧？,- There'll be plenty of work for everybody. - Costillo slowed down too much. - Yeah. [Spits],"oh , , , , , , , , ' t t ?",24,13,0.0541,11
+對我來說，遠來的客人是神聖而不可欺的！,"If only one thing is sacred, it is a guest!","i ' m not my <unk> , my <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .",12,25,0.0541,13
+這手鐲關係到你兄長的名譽 千萬不要再讓別人看到它了,Your brother's honor is entwined with this armlet. It never should be seen again by human eyes!,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> .,21,17,0.0526,4
+困在沙漠里两个月 而且天气非常的热！,"Stuck in the desert for two months, and was it hot!",the <unk> the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .,13,26,0.0513,13
+交给普通的妇女作嫁妆 这样所有的人都会找到老公 感觉到幸福,"¶ Money paid for beautiful women given to homely ones, as dowers, so that all may have husbands and be happy.",the <unk> of the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,24,18,0.0476,6
+把药丸吹进马的喉咙里去,"""Blow this pill down the horse's neck!""",the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,12,33,0.0444,21
+克裏米爾特夫人 你沒法用手裏的武器戰勝對手！ 卻用這樣下三濫的手段把他們全部燒死了！,"Lady Kriemhild, that you let these heroes whom you could not defeat in battle be annihilated in fiery distress!",""" l , , , the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> of the <unk> .",21,32,0.0377,11
+那些扭曲肌肉显示他在绷带中挣扎过,The contorted muscles show that he struggled in the bandages.,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,11,50,0.0328,39
+在那些被重建的缺失字幕畫面左下角 添加了「茂瑙基金會」的標記： FWMS,Missing titles that have been reconstructed are designated by the Murnau-Stiftung logo.,the <unk> the <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,15,50,0.0308,35
+居鲁士重复着党同伐异的 古老的祷文： 杀杀杀！,"Cyrus repeats the world-old prayer to kill, kill, kill...",the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,16,50,0.0303,34
+根据恩诺. 帕塔拉斯与安娜. 波恩 联合执导的俄罗斯首映版改编,A reconstruction of the Russian premiere version directed by Enno Patalas in cooperation with Anna Bohn,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,16,50,0.0303,34
+永远甜蜜恩爱,Three time up!,the <unk> <unk> .,4,4,0.0,0
+什么？,And never can be.,what ' s what ?,5,5,0.0,0
+"就像一首漂亮的曲子 j"" is just like a pretty tune j""",I Is just like a pretty tune I,the <unk> <unk> <unk> <unk> <unk> <unk> .,8,8,0.0,0
+- Too big?,All right.,- how ?,3,3,0.0,0
+下更多的蛋 下更多的蛋,Lay more eggs! Lay more eggs! Lay more eggs!,the <unk> of the <unk> of the <unk> of the <unk> .,12,12,0.0,0
+快前进,Forward!,<unk> .,2,2,0.0,0
+-这些淘气鬼,Those lousy bums!,- this . .,4,4,0.0,0
+你怎么了？,"- Hurry, baby.",what ' s what matter ?,5,6,0.0,1
+——没有。 - Gallagher! Anybody seen Gallagher?,Anybody seen Gallagher?,"- no ,",4,3,0.0,1
+回来了。 ——来这里!,"Hey, hey.",come on !,4,3,0.0,1
+下去,"""Get off!""",go to go to go .,5,6,0.0,1
+该死 竖在这里挡啥道啊,"Man, you're a regular roadblock! ##",the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> .,11,10,0.0,1
+让让看看香槟酒能做些什么,♪ Now I see what champagne will do ♪,let ' s the <unk> <unk> <unk> .,9,8,0.0,1
+你疯了吗？,"- Yeah, yeah.",you are you ?,5,4,0.0,1
+开玩笑，嗯？,That's an old business.,""" , , , , ?",7,6,0.0,1
+- A statement?,Good.,- how ?,2,3,0.0,1
+马可·乔菲,Musical notation:,""" , , .",3,4,0.0,1
+因为法兰德斯的地形非常平坦,Because Flanders is a flat country!,i ' ll be the <unk> <unk> <unk> .,7,9,0.0,2
+给他的补丁。 Patch.,You want patch?,he ' s a <unk> .,4,6,0.0,2
+工作必須做,Work is mandatory,the <unk> <unk> <unk> .,3,5,0.0,2
+我們懶洋洋的放歌水上,To laze about and sing like this,we ' ll be <unk> <unk> the <unk> .,7,9,0.0,2
+我知道的你都知道！,Where is Atsumi's child?,i know know know you know your your !,7,9,0.0,2
+在任何男人身上都可能发生,♪ It might have happened to any man ♪,"the <unk> , the <unk> . .",9,7,0.0,2
+哦 哦,Ow!,"oh , . .",2,4,0.0,2
+准备祈祷,Line up for prayers!,the <unk> .,5,3,0.0,2
+深呼吸一口 玛利亚,"Now blow really hard, Marie!",""" a <unk> <unk> .",7,5,0.0,2
+头低下,Head down!,""" ' ll be .",3,5,0.0,2
+我會讓任何冒犯女王您的人... ...都死上一百遍！,any man who insults you or does you wrong shall die a hundredfold death!,i ' m going to the <unk> <unk> . . . . .,15,13,0.0,2
+就是利益和实力,"Oh, yeah?",that ' s the <unk> .,4,6,0.0,2
+一份肝肠加配菜,One liverwurst platter!,- a <unk> <unk> <unk> .,4,6,0.0,2
+隆重宣传 伊曼努尔·拉斯教授,We'll hang large posters: Professor Immanuel Rath!,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,11,13,0.0,2
+我们到底在哪里？,- I was fine until you spoke.,we we we we ?,8,5,0.0,3
+就像一棵棕榈树慢慢地长高,""" Just like a palm tree "" "" Rises straight and tall """,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,13,16,0.0,3
+给我出去 滚,Get out! Out!,i ' ll go to go to .,5,8,0.0,3
+法兰兹 法兰兹,- Franz!,"the <unk> , the <unk> .",3,6,0.0,3
+马先吹的气,"""The horse blew first --""",<unk> <unk> <unk> <unk> .,8,5,0.0,3
+我安排了四个年轻人。 四个？,- [Man Chattering],i ' m going to the <unk> .,5,8,0.0,3
+因为我在这儿,What for?,i ' m here here .,3,6,0.0,3
+快一点 快进去,Hurry up! Get in there!,- i ' ll go to go to go .,7,10,0.0,3
+这些根本不够我们吃,- Kat! Are you crazy?,"this is not , that ' t we ' t .",7,11,0.0,4
+摄影 猪饲助太郎,Tomoyasu Shiga Sets:,the <unk> <unk> <unk> <unk> <unk> <unk> .,4,8,0.0,4
+当你快要死了的时候,- Dying room?,you ' re going to the <unk> .,4,8,0.0,4
+"有人在等我 j"" somebody waiting for me j""",Somebody waiting for me,i ' ' m not <unk> <unk> .,4,8,0.0,4
+我们看到地上满是零部件,"""In the early morning hours of November 4th,",we ' ll be <unk> <unk> .,11,7,0.0,4
+疾病 哀愁 悲伤 痛苦,""" Oppression or illness "" "" Or sorrow or pain """,<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,11,15,0.0,4
+干杯 亲爱的教授,"Cheers, Professor!",the <unk> of the <unk> of the <unk> .,4,9,0.0,5
+小美人 看我这边,Here is something else!,"the <unk> , i ' m going to me .",5,10,0.0,5
+多有趣呀,What if we take the mountains to the north?,that ' s <unk> .,10,5,0.0,5
+我不知道他是否遇到了麻烦。,Is he all right?,i don ' t know i ' t know .,5,10,0.0,5
+绅士们 小伙们,""" A gentleman"" "" A young man""","ladies , gentlemen .",9,4,0.0,5
+我們的胸膛就是他的盾牌！,Our breast is his shield.,we ' s <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> !,6,12,0.0,6
+當身邊所有的事情開始運作,When all things around us operate,the <unk> of the <unk> of the <unk> of the <unk> .,6,12,0.0,6
+有必要所有人都在这儿吗？ 回自己位置上去,"Well, is it necessary for us all to be here at one time?",""" ' s the <unk> <unk> the <unk> .",15,9,0.0,6
+这钱并不干净 Tony这些钱不是靠正档工作赚来的。,Cesca!,that ' s not that ' t be .,2,9,0.0,7
+党同伐异,Intolerance,<unk> <unk> <unk> <unk> <unk> <unk> <unk> .,1,8,0.0,7
+他們實在是寡不敵眾！,The fight is too uneven!,he ' s <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,6,16,0.0,10
+真的 你指望我相信你吗,Really? Expect me to believe that?,you ' you you you you you you you you you you you you you you you you you you .,8,21,0.0,13
+他们可以24小时工作 没有人能够区别机器人和真人,"24 more hours of work ― and no man, Joh Fredersen, will be able to differentiate the Machine-Man from a mortal ― !",""" they ' <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",27,14,0.0,13
+千万不要僵持于永无止境的壕沟战,Shove ahead out there and don't stick to that everlasting trench warfare!,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,15,36,0.0,21
+愛人也還沒有敞開心扉,The lover who is yet to show,""" ' s <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .",7,30,0.0,23
+影片《尼伯龍根》在當時沒有留存下一個完整的通用的德國版本,"Despite having more or less always been in circulation,",the <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> the <unk> <unk> <unk> <unk> .,10,35,0.0,25
+"""明天，这花蕾将盛放""",This bud will blossom...tomorrow.,""" "" , , , "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" """,9,50,0.0,41
+音乐 戈特福里德·休帕茨 雕塑 沃尔特·舒尔茨,Music: Gottfried Huppertz. Sculptor:,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>,7,50,0.0,43
