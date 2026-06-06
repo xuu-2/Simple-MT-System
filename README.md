@@ -13,7 +13,7 @@
 - 实现 `Encoder-Decoder` 结构的 `Seq2Seq` 模型；
 - 在解码器中集成 `Bahdanau Attention` 注意力机制；
 - 在训练集上训练模型，并通过验证集观察损失变化；
-- 在测试集上计算 BLEU 分数；
+- 在测试集上计算BLEU分数；
 - 可视化特定句子的注意力权重；
 - 对成功案例和失败案例进行定量与定性分析。
 
@@ -24,7 +24,7 @@
 | 项目要求 | 本项目实现 |
 |---|---|
 | 数据准备：选择公开中英平行语料库并清洗 | 使用 OPUS OpenSubtitles 中英平行语料，整理为 `zh,en` 两列 CSV |
-| 模型实现：编码器-解码器或 Transformer | 实现基于 GRU 的 Seq2Seq 编码器-解码器模型 |
+| 模型实现：编码器-解码器或 Transformer | 实现基于GRU的Seq2Seq 编码器-解码器模型 |
 | 注意力机制 | 在解码器中实现 Bahdanau Attention |
 | 模型训练与调试 | 在训练集训练，通过验证集监控损失，保存最优模型状态 |
 | 损失曲线 | 输出 `outputs_zh_en/loss_curve.png` |
@@ -43,7 +43,6 @@ project2_mt/
 ├─ convert_opus_to_csv.py              # 将 OPUS 原始中英文本转换为 CSV
 ├─ requirements.txt                    # Python 依赖
 ├─ README.md                           # 项目说明
-├─ SUBMISSION_GUIDE.md                 # 文件说明与提交指南
 ├─ data/
 │  └─ zh_en_opensubtitles.csv          # 整理后的中英 CSV 数据
 ├─ en-zh_CN.txt/                       # OPUS 原始语料目录
