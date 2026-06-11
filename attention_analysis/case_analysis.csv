@@ -1,0 +1,7 @@
+﻿id,type,label,input,expected,prediction,unk_count,pred_len,src_len,notes,attention_image
+1,success_short,Success-1: short greeting,你好,hello,"hello , you .",0,4,2,,1_success_short.png
+2,success_polite,Success-2: polite expression,谢谢,thank you,thank you .,0,3,2,,2_success_polite.png
+3,fail_negation,Failure-1: negation (not),我不喜欢咖啡,I do not like coffee,i don ' t t you .,0,7,6,Source contains negation '不': True | Prediction contains negation (not/n't): True | Max attention weight on '不' across all steps: 0.6542 | Attention does visit '不' but decoder still drops negation,3_fail_negation.png
+4,fail_pronoun,Failure-2: pronoun (she/her),她看见她的妈妈,She saw her mother,she she she her mother her mother her mother her mother her mother .,0,14,7,Prediction: she she she her mother her mother her mother her mother her mother . | Predicted 'she': True  |  Predicted 'her': True | GRU lacks explicit coreference resolution; both '她' characters look identical to encoder,4_fail_pronoun.png
+5,fail_long,Failure-3: long sentence (>15 words),今天早上我去了超市买了很多东西然后回家做饭吃,This morning I went to the supermarket...,i ' ll go to the <unk> . . . i ' ll find the . . . .,1,19,22,Source chars: 22  |  Predicted tokens: 19 | <unk> count: 1  |  Unique-token ratio: 0.47 | High repetition detected in output,5_fail_long.png
+6,fail_unk,Failure-4: out-of-vocab (OOV),机器翻译,machine translation,the <unk> ' ll be <unk> .,2,7,4,<unk> tokens in output: 2 / 7 | Cause: min_freq=2 filtering removes low-frequency chars from vocab | Character-level ZH tokenization further fragments rare terms,6_fail_unk.png
