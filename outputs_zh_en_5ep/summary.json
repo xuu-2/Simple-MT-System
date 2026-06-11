@@ -1,0 +1,94 @@
+{
+  "device": "cpu",
+  "config": {
+    "epochs": 5,
+    "batch_size": 64,
+    "emb_dim": 128,
+    "enc_hidden_dim": 256,
+    "dec_hidden_dim": 256,
+    "dropout": 0.5,
+    "learning_rate": 0.001,
+    "clip": 1.0,
+    "seed": 1234,
+    "max_length": 50,
+    "min_freq": 2,
+    "max_train_samples": 8000,
+    "max_valid_samples": 1000,
+    "max_test_samples": 1000,
+    "local_csv": "f:\\NLP\\project2_mt\\data\\zh_en_opensubtitles.csv",
+    "src_col": "zh",
+    "tgt_col": "en",
+    "valid_ratio": 0.1,
+    "test_ratio": 0.1,
+    "output_dir": "f:\\NLP\\project2_mt\\outputs_zh_en_5ep"
+  },
+  "vocab_sizes": {
+    "src": 2234,
+    "trg": 2548
+  },
+  "dataset_sizes": {
+    "train": 8000,
+    "valid": 1000,
+    "test": 1000
+  },
+  "best_valid_loss": 4.2904647290706635,
+  "bleu": {
+    "bleu": 4.447332955007659,
+    "precisions": [
+      25.94296228150874,
+      7.193515704154002,
+      2.8523111612175875,
+      0.7349214394323366
+    ],
+    "bp": 1.0,
+    "sys_len": 10870,
+    "ref_len": 9081
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 5.025979244232178,
+      "valid_loss": 4.640277087688446,
+      "train_ppl": 152.319340941593,
+      "valid_ppl": 103.57304242251429,
+      "minutes": 3,
+      "seconds": 10
+    },
+    {
+      "epoch": 2,
+      "train_loss": 4.427051090240479,
+      "valid_loss": 4.481249958276749,
+      "train_ppl": 83.6842753140409,
+      "valid_ppl": 88.34503129252325,
+      "minutes": 3,
+      "seconds": 11
+    },
+    {
+      "epoch": 3,
+      "train_loss": 4.139329734802246,
+      "valid_loss": 4.396530091762543,
+      "train_ppl": 62.760741007766605,
+      "valid_ppl": 81.16873140312782,
+      "minutes": 3,
+      "seconds": 11
+    },
+    {
+      "epoch": 4,
+      "train_loss": 3.8837155780792236,
+      "valid_loss": 4.32888925075531,
+      "train_ppl": 48.60447369848938,
+      "valid_ppl": 75.8599783415602,
+      "minutes": 3,
+      "seconds": 11
+    },
+    {
+      "epoch": 5,
+      "train_loss": 3.6723232975006104,
+      "valid_loss": 4.2904647290706635,
+      "train_ppl": 39.34320573239874,
+      "valid_ppl": 73.0003860193465,
+      "minutes": 3,
+      "seconds": 13
+    }
+  ]
+}

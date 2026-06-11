@@ -1,0 +1,11 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+"""明天，这花蕾将盛放""",This bud will blossom...tomorrow.,""" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" """,9,26,0.0,17
+这钱并不干净 Tony这些钱不是靠正档工作赚来的。,Cesca!,that ' s not that ' s not <unk> .,2,10,0.0,8
+这些根本不够我们吃,- Kat! Are you crazy?,this is this wouldn ' t we we ' t we ' re .,7,14,0.0,7
+下更多的蛋 下更多的蛋,Lay more eggs! Lay more eggs! Lay more eggs!,the <unk> <unk> <unk> .,12,5,0.0,7
+就像一棵棕榈树慢慢地长高,""" Just like a palm tree "" "" Rises straight and tall """,the <unk> <unk> <unk> <unk> <unk> .,13,7,0.0,6
+隆重宣传 伊曼努尔·拉斯教授,We'll hang large posters: Professor Immanuel Rath!,the <unk> <unk> <unk> .,11,5,0.0,6
+一生中每晚都与你相约,♪ You have a date for every night your whole life through ♪,"- <unk> , <unk> . . . .",13,8,0.0,5
+千万不要僵持于永无止境的壕沟战,Shove ahead out there and don't stick to that everlasting trench warfare!,the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> .,15,10,0.0,5
+然后贩卖门票,- you should rope off a big field--,the <unk> <unk> <unk> .,10,5,0.0,5
+因为我在这儿,What for?,i ' ll here here here here .,3,8,0.0,5

@@ -1,0 +1,11 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+- 是的 冯·伯恩伯格夫人,"-Yes, Miss von Bernburg.","- yes , miss von bernburg .",7,7,1.0,0
+我很抱歉。 我下去把它们扔出去。,I'm sorry.,i ' m sorry .,5,5,1.0,0
+快前进,Forward!,forward !,2,2,1.0,0
+快看！,Look!,look !,2,2,1.0,0
+你好?,Hello?,hello ?,2,2,1.0,0
+- 晚安.,- Good night.,- good night .,4,4,1.0,0
+但我不用.,But I don't.,but i don ' t . .,6,7,0.9231,1
+我没哭,I'm not crying.,i ' m not .,6,5,0.9091,1
+你走吧.,You can go away.,you go away .,5,4,0.8889,1
+"不,我不能。 No, I can't.","No, I can't.","no , i ' ' t .",7,7,0.8571,0
