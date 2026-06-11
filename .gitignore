@@ -1,19 +1,54 @@
-# Python 缓存文件
+# Python 编译缓存 
+# Python字节码缓存文件夹、编译后文件
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 *.pyc
-.ipynb_checkpoints/
 
-# 原始/大型数据文件
+#  Jupyter Notebook 临时文件 
+# notebook自动保存的检查点缓存
+.ipynb_checkpoints/
+*.ipynb
+
+#大型数据集
+# 项目CSV平行语料、压缩文本语料
+data/*.csv
 en-zh_CN.txt/
+*.txt.gz
 *.zip
 
-# 模型权重文件
+# 模型权重/训练断点
+# 训练保存的模型参数文件，体积巨大默认忽略；需要存模型时取消注释
+# *.pt
+# *.pth
+# *.ckpt
 *.pt
 *.pth
 *.ckpt
 
-# 旧的示例输出
+#  各轮次实验输出目录（训练结果、图表、CSV分析表）
+# 不同epoch的翻译实验输出文件夹，统一忽略实验产物
 outputs/
+outputs_zh_en/
+outputs_zh_en_5ep/
+outputs_zh_en_10ep/
+outputszh_en/
 
-# 报告生成辅助脚本
-write_final_report.py
+# 实验报告
+*.docx
+*.doc
+*.pdf
+
+# 系统隐藏文件 
+# Mac、Windows系统自动生成的隐藏垃圾文件
+.DS_Store
+Thumbs.db
+
+#  IDE编辑器配置与缓存 
+# VSCode、PyCharm项目配置目录，编辑器临时缓存文件
+.vscode/
+.idea/
+*.swp
+*.swo
