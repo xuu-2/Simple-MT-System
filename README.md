@@ -422,53 +422,14 @@ python analyze_attention.py --model-dir "outputs_zh_en_5ep" --output-dir "attent
 
 ---
 
-## 15. GitHub 提交说明
 
-建议上传：
-
-```text
-train_mt.py
-convert_opus_to_csv.py
-generate_vocab.py
-interactive_translate.py
-analyze_attention.py
-requirements.txt
-README.md
-GITHUB_GUIDE.md
-TRANSLATION_USAGE.md
-.gitignore
-outputs_zh_en_5ep/summary.json
-outputs_zh_en_5ep/vocab.json
-outputs_zh_en_5ep/*.png
-outputs_zh_en_5ep/*.csv
-attention_analysis/
-```
-
-不建议上传：
-
-```text
-data/
-en-zh_CN.txt/
-__pycache__/
-.ipynb_checkpoints/
-outputs/
-outputs_zh_en/
-outputs_zh_en_10ep/
-outputszh_en/
-*.docx
-```
-
-`best_seq2seq_attention.pt` 模型权重文件可选上传。如果文件较大，可以不上传，只保留训练命令让用户自行复现。
-
----
-
-## 16. 后续改进方向
+## 15. 后续改进方向
 
 后续可以从以下方向改进：增加训练数据规模，使用 GPU 加速训练，引入 `jieba`、BPE 或 SentencePiece 改进中文分词，使用 Beam Search 改进所有测试阶段解码，使用 Transformer 替代 RNN Seq2Seq，对 OpenSubtitles 语料进行更严格清洗，或使用预训练机器翻译模型进行微调。
 
 ---
 
-## 17. 附加实验：Multi30k 英德翻译模式
+## 16. 附加实验：Multi30k 英德翻译模式
 
 除中英主任务外，脚本仍保留 Multi30k 英德翻译模式，用于验证模型流程的通用性。如果不传入 `--local-csv`，脚本默认尝试使用 `bentrevett/multi30k` 数据集进行英文到德文翻译。
 
@@ -476,7 +437,7 @@ outputszh_en/
 
 ---
 
-## 18. 参考资料
+## 17. 参考资料
 
 1. OPUS OpenSubtitles 语料库：https://opus.nlpl.eu/
 2. Jörg Tiedemann. Parallel Data, Tools and Interfaces in OPUS. LREC, 2012.
